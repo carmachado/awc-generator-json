@@ -22,6 +22,7 @@ JSON Format
         "id": 1,
         "question": "Watch an anime...",
         "additionalInformation": [
+            { "type": "Episode" },  // Ep: 1/10
             { "type": "YearSeason" },  // 2021 and Winter
             { "type": "Label", "field": "Requirement" }, // Requirement: 1
             { "type": "Link", "field": "Screenshot" }, // [Screenshot](https://imgur.com/gallery/dXQyRYq)

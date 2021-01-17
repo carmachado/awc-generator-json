@@ -5,37 +5,58 @@
       {
         "id": 1,
         "question":
-          "1st Anime"
+          "1st Anime",
+          "additionalInformation": [
+            { "type": "Episode" }
+          ]
       },
       {
         "id": 2,
         "question":
-          "2st Anime"
+          "2st Anime",
+          "additionalInformation": [
+            { "type": "Episode" }
+          ]
       },
       {
         "id": 3,
         "question":
-          "3st Anime"
+          "3st Anime",
+          "additionalInformation": [
+            { "type": "Episode" }
+          ]
       },
       {
         "id": 4,
         "question":
-          "4st Anime"
+          "4st Anime",
+          "additionalInformation": [
+            { "type": "Episode" }
+          ]
       },
       {
         "id": 5,
         "question":
-          "5st Anime"
+          "5st Anime",
+          "additionalInformation": [
+            { "type": "Episode" }
+          ]
       },
       {
         "id": 6,
         "question":
-          "6st Anime"
+          "6st Anime",
+          "additionalInformation": [
+            { "type": "Episode" }
+          ]
       },
       {
         "id": 7,
         "question":
-          "7st Anime"
+          "7st Anime",
+          "additionalInformation": [
+            { "type": "Episode" }
+          ]
       }
     ]
   }
