@@ -1,0 +1,220 @@
+{
+    "name": "Classic Challenge",
+    "defaultRequired": true,
+    "requirements": [
+      {
+        "text": "### __Winter__",
+        "splitter": ""
+      },
+      {
+        "id": 1,
+        "question":
+          "1st Winter Anime"
+      },
+      {
+        "id": 2,
+        "question":
+          "2st Winter Anime"
+      },
+      {
+        "id": 3,
+        "question":
+          "3st Winter Anime"
+      },
+      {
+        "id": 4,
+        "question":
+          "4st Winter Anime"
+      },
+      {
+        "id": 5,
+        "question":
+          "5st Winter Anime"
+      },
+      {
+        "id": 6,
+        "question":
+          "6st Winter Anime"
+      },
+      {
+        "id": 7,
+        "question":
+          "7st Winter Anime"
+      },
+      {
+        "id": 8,
+        "question":
+          "8st Winter Anime"
+      },
+      {
+        "id": 9,
+        "question":
+          "9st Winter Anime"
+      },
+      {
+        "id": 10,
+        "question":
+          "10st Winter Anime"
+      }, 
+      {
+        "text": "### __Spring__",
+        "splitter": "<hr>\n\n"
+      },
+      {
+        "id": 11,
+        "question":
+          "1st Spring Anime"
+      },
+      {
+        "id": 12,
+        "question":
+          "2st Spring Anime"
+      },
+      {
+        "id": 13,
+        "question":
+          "3st Spring Anime"
+      },
+      {
+        "id": 14,
+        "question":
+          "4st Spring Anime"
+      },
+      {
+        "id": 15,
+        "question":
+          "5st Spring Anime"
+      },
+      {
+        "id": 16,
+        "question":
+          "6st Spring Anime"
+      },
+      {
+        "id": 17,
+        "question":
+          "7st Spring Anime"
+      },
+      {
+        "id": 18,
+        "question":
+          "8st Spring Anime"
+      },
+      {
+        "id": 19,
+        "question":
+          "9st Spring Anime"
+      },
+      {
+        "id": 20,
+        "question":
+          "10st Spring Anime"
+      }, {
+        "text": "### __Summer__",
+        "splitter": "<hr>\n\n"
+      },
+      {
+        "id": 21,
+        "question":
+          "1st Summer Anime"
+      },
+      {
+        "id": 22,
+        "question":
+          "2st Summer Anime"
+      },
+      {
+        "id": 23,
+        "question":
+          "3st Summer Anime"
+      },
+      {
+        "id": 24,
+        "question":
+          "4st Summer Anime"
+      },
+      {
+        "id": 25,
+        "question":
+          "5st Summer Anime"
+      },
+      {
+        "id": 26,
+        "question":
+          "6st Summer Anime"
+      },
+      {
+        "id": 27,
+        "question":
+          "7st Summer Anime"
+      },
+      {
+        "id": 28,
+        "question":
+          "8st Summer Anime"
+      },
+      {
+        "id": 29,
+        "question":
+          "9st Summer Anime"
+      },
+      {
+        "id": 30,
+        "question":
+          "10st Summer Anime"
+      }, {
+        "text": "### __Fall__",
+        "splitter": ""
+      },
+      {
+        "id": 31,
+        "question":
+          "1st Fall Anime"
+      },
+      {
+        "id": 32,
+        "question":
+          "2st Fall Anime"
+      },
+      {
+        "id": 33,
+        "question":
+          "3st Fall Anime"
+      },
+      {
+        "id": 34,
+        "question":
+          "4st Fall Anime"
+      },
+      {
+        "id": 35,
+        "question":
+          "5st Fall Anime"
+      },
+      {
+        "id": 36,
+        "question":
+          "6st Fall Anime"
+      },
+      {
+        "id": 37,
+        "question":
+          "7st Fall Anime"
+      },
+      {
+        "id": 38,
+        "question":
+          "8st Fall Anime"
+      },
+      {
+        "id": 39,
+        "question":
+          "9st Fall Anime"
+      },
+      {
+        "id": 40,
+        "question":
+          "10st Fall Anime"
+      }
+    ]
+  }
