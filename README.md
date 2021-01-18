@@ -19,6 +19,7 @@ JSON Format
     "defaultRequired": true or false,
     "requirements": [
       {
+        "splitter": "### __Winter__",
         "id": 1,
         "question": "Watch an anime...",
         "additionalInformation": [
