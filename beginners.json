@@ -1,0 +1,110 @@
+{
+  "name": "Beginner’s Challenge",
+  "defaultRequired": true,
+  "requirements": [
+    {
+      "id": 1,
+      "question": "Watch an anime that combines your favourite and least favourite genre",
+      "additionalInformation": [{ "type": "Link", "field": "Screenshot" }]
+    },
+    {
+      "id": 2,
+      "question": "Watch an anime that was recommended to you by another AniList user",
+      "additionalInformation": [{ "type": "Link", "field": "Screenshot" }]
+    },
+    {
+      "id": 3,
+      "question": "Watch an anime with a number in the title"
+    },
+    {
+      "id": 4,
+      "question": "Watch an anime that aired this year"
+    },
+    {
+      "id": 5,
+      "question": "Watch an anime with less than 12 episodes"
+    },
+    {
+      "id": 6,
+      "question": "Finish watching an anime on your Dropped list",
+      "additionalInformation": [
+        { "type": "Label", "field": "Episodes previously watched" }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Watch an anime from the recently reviewed section of AniList",
+      "additionalInformation": [{ "type": "Link", "field": "Screenshot" }]
+    },
+    {
+      "id": 8,
+      "question": "Watch an anime with a mean score below 70%"
+    },
+    {
+      "id": 9,
+      "question": "Watch an anime with a mean score above 80%"
+    },
+    {
+      "id": 10,
+      "question": "Watch an anime with a one word title"
+    },
+    {
+      "id": 11,
+      "question": "Watch an anime that another Beginner’s Challenge participant has scored 90/100 or 9/10",
+      "additionalInformation": [
+        {
+          "type": "Link",
+          "field": "Fellow Participant",
+          "subtype": "CommentUser"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "question": "Watch an anime from an AWC Staff member’s favourites",
+      "additionalInformation": [
+        { "type": "Field", "field": "AWC Staff", "subtype": "UserFavorites" }
+      ]
+    },
+    {
+      "id": 13,
+      "question": "Watch an anime listed as a Sequel, Spin Off or Alternative to an anime you have completed",
+      "additionalInformation": [
+        { "type": "Link", "field": "Previously Completed", "subtype": "Anime" },
+        { "type": "Label", "field": "Relation" }
+      ]
+    },
+    {
+      "id": 14,
+      "question": "Watch an anime with one of your favourite voice actors or staff members",
+      "additionalInformation": [
+        { "type": "Link", "field": "Staff Member", "subtype": "Staff" }
+      ]
+    },
+    {
+      "id": 15,
+      "question": "Watch an anime by one of your favourite studios or producers",
+      "additionalInformation": [{ "type": "Label", "field": "Favourite" }]
+    },
+    {
+      "id": 16,
+      "question": "Watch an anime that aired during any Winter season"
+    },
+    {
+      "id": 17,
+      "question": "Watch an anime that does not have any of the top 3 genres listed in your Genre Overview"
+    },
+    {
+      "id": 18,
+      "question": "Watch an anime with the source “Original”"
+    },
+    {
+      "id": 19,
+      "question": "Watch an anime with a title that begins with the last letter of your username"
+    },
+    {
+      "id": 20,
+      "question": "Watch an anime with format “TV Short”"
+    }
+  ]
+}
