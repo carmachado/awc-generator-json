@@ -26,8 +26,16 @@ JSON Format
             { "type": "Episode" },  // Ep: 1/10
             { "type": "YearSeason" },  // 2021 and Winter
             { "type": "Label", "field": "Requirement" }, // Requirement: 1
+            { "type": "Label", "field": "AWC Staff", "subtype": "UserFavorites" }, //AWC Staff: [Kondor](https://anilist.co/user/Kondor/favorites)
             { "type": "Link", "field": "Screenshot" }, // [Screenshot](https://imgur.com/gallery/dXQyRYq)
-            { "type": "Link", "field": "Staff Member", "subtype": "Staff" } // Staff Member: [Yuki Suetsugu](https://anilist.co/staff/97293/Yuki-Suetsugu)
+            { "type": "Link", "field": "Staff Member", "subtype": "Staff" }, // Staff Member: [Yuki Suetsugu](https://anilist.co/staff/97293/Yuki-Suetsugu)
+            { "type": "Link", "field": "Previously Completed", "subtype": "Anime" }, // Previously Completed: [Owarimonogatari (Ge)](https://anilist.co/anime/21745/Owarimonogatari-Ge/)
+            {
+              "type": "Link",
+              "field": "Fellow Participant",
+              "subtype": "CommentUser"
+            }, //Fellow Participant: [Shoxi](https://anilist.co/forum/thread/4448/comment/93023)
+
         ],
         "required": true or false
       }
