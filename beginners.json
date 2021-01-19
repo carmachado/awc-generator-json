@@ -63,7 +63,7 @@
       "id": 12,
       "question": "Watch an anime from an AWC Staff member’s favourites",
       "additionalInformation": [
-        { "type": "Field", "field": "AWC Staff", "subtype": "UserFavorites" }
+        { "type": "Label", "field": "AWC Staff", "subtype": "UserFavorites" }
       ]
     },
     {
@@ -78,7 +78,7 @@
       "id": 14,
       "question": "Watch an anime with one of your favourite voice actors or staff members",
       "additionalInformation": [
-        { "type": "Link", "field": "Staff Member", "subtype": "Staff" }
+        { "type": "Link", "field": "Favourite", "subtype": "Staff" }
       ]
     },
     {
