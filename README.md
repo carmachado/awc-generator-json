@@ -15,14 +15,15 @@ JSON Format
 ```bash
 {
    "name": "Challenge Name",
-   "link": "https://anilist.co/forum/thread/21957",
+   "link?": "https://anilist.co/forum/thread/21957",
     "defaultRequired": true or false,
     "requirements": [
       {
-        "splitter": "### __Winter__",
+        "splitter?": "### __Winter__",
         "id": 1,
         "question": "Watch an anime...",
-        "additionalInformation": [
+        "required?": true or false,
+        "additionalInformation?": [
             { "type": "Episode" },  // Ep: 1/10
             { "type": "YearSeason" },  // 2021 and Winter
             { "type": "Label", "field": "Requirement" }, // Requirement: 1
@@ -35,9 +36,10 @@ JSON Format
               "field": "Fellow Participant",
               "subtype": "CommentUser"
             }, //Fellow Participant: [Shoxi](https://anilist.co/forum/thread/4448/comment/93023)
+            { "type": "Link", "field": "Character", "subtype": "Character" }, Character: [Shirou Emiya](https://anilist.co/character/496),
+            { "type": "Label", "field": "User", "subtype": "User" }, //User: [Kondor](https://anilist.co/user/Kondor)
 
-        ],
-        "required": true or false
+        ]
       }
     ]
 }
