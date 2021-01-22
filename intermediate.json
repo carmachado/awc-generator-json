@@ -1,6 +1,6 @@
 {
   "name": "Intermediate Tier Challenge",
-  "link": "https://anilist.co/forum/thread/4448/",
+  "link": "https://anilist.co/forum/thread/5027/",
   "defaultRequired": true,
   "requirements": [
     {
@@ -76,7 +76,11 @@
     },
     {
       "id": 17,
-      "question": "Watch an anime where the main character is not Japanese"
+      "question": "Watch an anime where the main character is not Japanese",
+      "additionalInformation": [
+        { "type": "Link", "field": "Character", "subtype": "Character" },
+        { "type": "Label", "field": "Nationality" }
+      ]
     },
     {
       "id": 18,
@@ -168,7 +172,10 @@
     },
     {
       "id": 39,
-      "question": "Watch an anime from an AniList Mod's favorites list"
+      "question": "Watch an anime from an AniList Mod's favorites list",
+      "additionalInformation": [
+        { "type": "Label", "field": "Anilist Mod", "subtype": "UserFavorites" }
+      ]
     },
     {
       "id": 40,
