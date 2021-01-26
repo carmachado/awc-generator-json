@@ -23,6 +23,7 @@ JSON Format
         "id": 1,
         "question": "Watch an anime...",
         "required?": true or false,
+        "preset?": "https://anilist.co/anime/759/", //Anime already set by the challenge
         "additionalInformation?": [
             { "type": "Episode" },  // Ep: 1/10
             { "type": "YearSeason" },  // 2021 and Winter
