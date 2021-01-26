@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Time-Limited",
+    "childrens": [
+      { "name": "Seasonal", "file": "seasonal" },
+      { "name": "January 2021", "file": "january-2021" }
+    ]
+  },
+  {
+    "name": "Tier",
+    "childrens": [
+      { "name": "Beginner's", "file": "beginners" },
+      { "name": "Intermediate", "file": "intermediate" }
+    ]
+  },
+  { "name": "Classic", "file": "classic" }
+]
