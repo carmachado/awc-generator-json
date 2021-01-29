@@ -1,0 +1,342 @@
+{
+  "name": "Advanced Tier Challenge",
+  "link": "https://anilist.co/forum/thread/8462/",
+  "defaultRequired": true,
+  "run": { "after": [{ "type": "GenreCheckList" }] },
+  "requirements": [
+    {
+      "id": 1,
+      "question": "Watch an anime with the format “TV” and exactly 24 episodes"
+    },
+    {
+      "id": 2,
+      "question": "Watch an anime with the format “TV” and 50 or more episodes"
+    },
+    {
+      "id": 3,
+      "question": "Watch an anime that finished airing in 1999 or earlier"
+    },
+    {
+      "id": 4,
+      "question": "Watch an anime that started and finished airing in different years"
+    },
+    {
+      "id": 5,
+      "question": "Watch an anime that started airing in a year with the same last two digits"
+    },
+    {
+      "id": 6,
+      "question": "Watch an anime with the format “Movie” that was released in the past 3 years"
+    },
+    {
+      "id": 7,
+      "question": "Watch an anime where the last number of its mean score is the same as the last number of the year it began airing",
+      "additionalInformation": [{ "type": "Link", "field": "Screenshot" }]
+    },
+    {
+      "id": 8,
+      "question": "Watch an anime from the release year you have watched the fewest titles",
+      "additionalInformation": [{ "type": "Link", "field": "Screenshot" }]
+    },
+    {
+      "id": 9,
+      "question": "Watch an anime with the format “TV” that has less than 10 episodes or 14 to 20 episodes"
+    },
+    {
+      "id": 10,
+      "question": "Watch an anime that started airing after you entered the Advanced Challenge"
+    },
+    {
+      "id": 11,
+      "question": "Watch an anime that has 5 genres or more"
+    },
+    {
+      "id": 12,
+      "question": "Watch an anime that combines your top 2 genres based on time watched",
+      "additionalInformation": [{ "type": "Link", "field": "Screenshot" }]
+    },
+    {
+      "id": 13,
+      "question": "Watch an anime that has at least 2 tags from the same category"
+    },
+    {
+      "id": 14,
+      "question": "Watch an anime with a tag or genre that begins with the first letter of your username"
+    },
+    {
+      "id": 15,
+      "question": "Watch an anime that has your highest rated demographic tag based on mean score",
+      "additionalInformation": [{ "type": "Link", "field": "Screenshot" }]
+    },
+    {
+      "id": 16,
+      "question": "Watch an anime with the tag “Isekai” or “Idol”"
+    },
+    {
+      "id": 17,
+      "question": "Watch an anime with the tag “Cute Girls Doing Cute Things” or “Gore”"
+    },
+    {
+      "id": 18,
+      "question": "Watch an anime with the tag “School” or “Super Power”"
+    },
+    {
+      "id": 19,
+      "question": "Watch an anime with the tag “Harem” or “Historical”"
+    },
+    {
+      "id": 20,
+      "question": "Watch an anime with the tag “Magic” or “Military”"
+    },
+    {
+      "id": 21,
+      "question": "Watch an anime with 2 or more of the 10 tags above",
+      "additionalInformation": [{ "type": "Label", "field": "Tags" }]
+    },
+    {
+      "id": 22,
+      "question": "Watch an anime that does not have any of the 10 tags above"
+    },
+    {
+      "id": 23,
+      "question": "Watch an anime that does not have any of your 5 most watched genres based on count",
+      "additionalInformation": [{ "type": "Link", "field": "Screenshot" }]
+    },
+    {
+      "id": 24,
+      "question": "Watch an anime with a tag that does not appear in your top 30 tags or your least watched tag based on count",
+      "additionalInformation": [{ "type": "Link", "field": "Screenshot" }]
+    },
+    {
+      "id": 25,
+      "question": "Watch an anime with at least 2 of your 3 least liked genres based on mean score",
+      "additionalInformation": [{ "type": "Link", "field": "Screenshot" }]
+    },
+    {
+      "id": 26,
+      "question": "Watch an anime with the source “Original” and the format “TV”"
+    },
+    {
+      "id": 27,
+      "question": "Watch an anime with the source “Manga” that does not have the format “TV”"
+    },
+    {
+      "id": 28,
+      "question": "Watch an anime with the source “Novel”"
+    },
+    {
+      "id": 29,
+      "question": "Watch an anime with the format “Special”, “OVA” or “ONA” that is related to an anime you watched in any AWC Tier Challenge",
+      "additionalInformation": [
+        { "type": "Link", "field": "Related Anime", "subtype": "Anime" },
+        { "type": "Link", "field": "Challenge", "subtype": "CommentTitle" }
+      ]
+    },
+    {
+      "id": 30,
+      "question": "Watch an anime that has a prequel and a sequel"
+    },
+    {
+      "id": 31,
+      "question": "Watch an anime by a Studio or Producer that starts with the first letter of your username"
+    },
+    {
+      "id": 32,
+      "question": "Watch an anime by one of your top 5 Studios based on count",
+      "additionalInformation": [{ "type": "Link", "field": "Screenshot" }]
+    },
+    {
+      "id": 33,
+      "question": "Watch an anime with a Staff member whose profile image is a drawing instead of a photograph",
+      "additionalInformation": [
+        { "type": "Link", "field": "Staff", "subtype": "Staff" }
+      ]
+    },
+    {
+      "id": 34,
+      "question": "Watch an anime with one of your favourite male Staff members",
+      "additionalInformation": [
+        { "type": "Link", "field": "Staff", "subtype": "Staff" }
+      ]
+    },
+    {
+      "id": 35,
+      "question": "Watch an anime with one of your favourite female Staff members",
+      "additionalInformation": [
+        { "type": "Link", "field": "Staff", "subtype": "Staff" }
+      ]
+    },
+    {
+      "id": 36,
+      "question": "Watch an anime that features a male main character and a female main character",
+      "additionalInformation": [
+        { "type": "Link", "field": "Characters", "subtype": "Character" },
+        {
+          "type": "Link",
+          "field": "Character",
+          "subtype": "Character",
+          "splitter": ", ",
+          "occultField": true
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "question": "Watch an anime with a female character that uses a gun or a sword",
+      "additionalInformation": [
+        { "type": "Link", "field": "Character", "subtype": "Character" }
+      ]
+    },
+    {
+      "id": 38,
+      "question": "Watch an anime with a topless male character",
+      "additionalInformation": [
+        { "type": "Link", "field": "Character", "subtype": "Character" },
+        { "type": "Link", "field": "Screenshot" }
+      ]
+    },
+    {
+      "id": 39,
+      "question": "Watch an anime with a fluffy, furry or scaly character",
+      "additionalInformation": [
+        { "type": "Link", "field": "Character", "subtype": "Character" }
+      ]
+    },
+    {
+      "id": 40,
+      "question": "Watch an anime with a character that uses a flip phone",
+      "additionalInformation": [{ "type": "Link", "field": "Screenshot" }]
+    },
+    {
+      "id": 41,
+      "question": "Watch an anime that features an adult, a teenager and a kid",
+      "additionalInformation": [
+        { "type": "Link", "field": "Adult", "subtype": "Character" },
+        { "type": "Link", "field": "Teenager", "subtype": "Character" },
+        { "type": "Link", "field": "Kid", "subtype": "Character" }
+      ]
+    },
+    {
+      "id": 42,
+      "question": "Watch an anime with a character that has a physical disability or sensory impairment",
+      "additionalInformation": [
+        { "type": "Link", "field": "Character", "subtype": "Character" }
+      ]
+    },
+    {
+      "id": 43,
+      "question": "Watch an anime with a main character that wears headgear",
+      "additionalInformation": [
+        { "type": "Link", "field": "Character", "subtype": "Character" }
+      ]
+    },
+    {
+      "id": 44,
+      "question": "Watch an anime that features an animal familiar or companion creature",
+      "additionalInformation": [
+        { "type": "Link", "field": "Character", "subtype": "Character" }
+      ]
+    },
+    {
+      "id": 45,
+      "question": "Watch an anime with a main character that is a villain or anti-hero",
+      "additionalInformation": [
+        { "type": "Link", "field": "Character", "subtype": "Character" }
+      ]
+    },
+    {
+      "id": 46,
+      "question": "Watch an anime that is set 100 or more years in the past or 100 or more years in the future",
+      "additionalInformation": [
+        {
+          "type": "Link",
+          "subtype": "Label",
+          "field": "Setting",
+          "fields": ["Year/Era", "Source URL"]
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "question": "Watch an anime that takes place in a fantasy setting",
+      "additionalInformation": [{ "type": "Label", "field": "Setting" }]
+    },
+    {
+      "id": 48,
+      "question": "Watch an anime with cover art that only features one character"
+    },
+    {
+      "id": 49,
+      "question": "Watch an anime with cover art that features the same amount of male and female characters"
+    },
+    {
+      "id": 50,
+      "question": "Watch or rewatch an anime with a character that was featured on any AWC Challenge badge",
+      "additionalInformation": [
+        { "type": "Link", "field": "Character", "subtype": "Character" },
+        { "type": "Link", "field": "Challenge" }
+      ]
+    },
+    {
+      "id": 51,
+      "question": "Watch an anime that simultaneously satisfies a requirement from the Beginner’s Challenge and a requirement from the Intermediate Challenge",
+      "additionalInformation": [
+        { "type": "Label", "field": "Beginner’s" },
+        { "type": "Label", "field": "Intermediate" }
+      ]
+    },
+    {
+      "id": 52,
+      "question": "Watch an anime that has at least 5 Recent Activities within the last hour",
+      "additionalInformation": [{ "type": "Link", "field": "Screenshot" }]
+    },
+    {
+      "id": 53,
+      "question": "Watch an anime that starts with the last letter of the anime you used for the requirement above"
+    },
+    {
+      "id": 54,
+      "question": "Watch an anime with five or more words in the title"
+    },
+    {
+      "id": 55,
+      "question": "Watch an anime with a Japanese honorific in the title"
+    },
+    {
+      "id": 56,
+      "question": "Watch an anime that another Advanced Challenger has given their maximum score",
+      "additionalInformation": [
+        {
+          "type": "Link",
+          "field": "Challenge",
+          "subtype": "ChallengeUser",
+          "occultField": true
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "question": "Watch an anime that more than 30,000 AniList users have completed"
+    },
+    {
+      "id": 58,
+      "question": "Watch an anime that another AniList user has completed more than once",
+      "additionalInformation": [
+        { "type": "Label", "field": "Username", "subtype": "UserAnimeList" }
+      ]
+    },
+    {
+      "id": 59,
+      "question": "Watch an anime from the favourites of the user above or below you in this thread",
+      "additionalInformation": [
+        { "type": "Label", "field": "Page Number" },
+        { "type": "Link", "field": "Screenshot" }
+      ]
+    },
+    {
+      "id": 60,
+      "question": "Watch or rewatch an anime based on some merchandise you own, a friend owns or that was shared by a member in the AWC Discord",
+      "additionalInformation": [{ "type": "Link", "field": "Screenshot" }]
+    }
+  ]
+}
