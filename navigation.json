@@ -11,7 +11,8 @@
     "name": "Tier",
     "childrens": [
       { "name": "Beginner's", "file": "beginners" },
-      { "name": "Intermediate", "file": "intermediate" }
+      { "name": "Intermediate", "file": "intermediate" },
+      { "name": "Advanced", "file": "advanced" }
     ]
   },
   { "name": "Classic", "file": "classic" }
