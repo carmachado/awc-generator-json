@@ -1,0 +1,47 @@
+{
+  "name": "Initial D Collection",
+  "link": "https://anilist.co/forum/thread/12963",
+  "defaultRequired": true,
+  "requirements": [
+    {
+      "id": 1,
+      "question": "Initial D",
+      "preset": "https://anilist.co/anime/185"
+    },
+    {
+      "id": 2,
+      "question": "Initial D Second Stage",
+      "preset": "https://anilist.co/anime/186"
+    },
+    {
+      "id": 3,
+      "question": "Initial D Extra Stage",
+      "preset": "https://anilist.co/anime/822"
+    },
+    {
+      "id": 4,
+      "question": "Initial D Third Stage",
+      "preset": "https://anilist.co/anime/187"
+    },
+    {
+      "id": 5,
+      "question": "Initial D Fourth Stage",
+      "preset": "https://anilist.co/anime/18"
+    },
+    {
+      "id": 6,
+      "question": "Initial D Extra Stage 2",
+      "preset": "https://anilist.co/anime/5228"
+    },
+    {
+      "id": 7,
+      "question": "Initial D Fifth Stage",
+      "preset": "https://anilist.co/anime/15059"
+    },
+    {
+      "id": 8,
+      "question": "Initial D Final Stage",
+      "preset": "https://anilist.co/anime/19613"
+    }
+  ]
+}

@@ -15,5 +15,14 @@
       { "name": "Advanced", "file": "advanced" }
     ]
   },
+  {
+    "name": "Franchises",
+    "childrens": [
+      { "name": "Monogatari Series", "file": "monogatari" },
+      { "name": "JoJo's Bizarre Adventure", "file": "jojo" },
+      { "name": "Initial D", "file": "initialD" },
+      { "name": "Higurashi", "file": "higurashi" }
+    ]
+  },
   { "name": "Classic", "file": "classic" }
 ]

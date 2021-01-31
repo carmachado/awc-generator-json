@@ -1,0 +1,47 @@
+{
+  "name": "Higurashi Collection",
+  "link": "https://anilist.co/forum/thread/17846",
+  "defaultRequired": true,
+  "requirements": [
+    {
+      "id": 1,
+      "question": "Higurashi no Naku Koro ni",
+      "preset": "https://anilist.co/anime/934"
+    },
+    {
+      "id": 2,
+      "question": "Higurashi no Naku Koro ni: Nekogoroshi-hen",
+      "preset": "https://anilist.co/anime/2899"
+    },
+    {
+      "id": 3,
+      "question": "Higurashi no Naku Koro ni Kai",
+      "preset": "https://anilist.co/anime/1889"
+    },
+    {
+      "id": 4,
+      "question": "Higurashi no Naku Koro ni Kai Specials",
+      "preset": "https://anilist.co/anime/6064"
+    },
+    {
+      "id": 5,
+      "question": "Higurashi no Naku Koro ni Rei",
+      "preset": "https://anilist.co/anime/3652"
+    },
+    {
+      "id": 6,
+      "question": "Higurashi no Naku Koro ni Kira",
+      "preset": "https://anilist.co/anime/10491"
+    },
+    {
+      "id": 7,
+      "question": "Higurashi no Naku Koro ni Kaku: Outbreak",
+      "preset": "https://anilist.co/anime/16700"
+    },
+    {
+      "id": 8,
+      "question": "Higurashi no Naku Koro ni Gou",
+      "preset": "https://anilist.co/anime/114446"
+    }
+  ]
+}

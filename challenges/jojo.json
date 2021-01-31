@@ -1,0 +1,42 @@
+{
+  "name": "JoJo's Bizarre Adventure Franchise",
+  "link": "https://anilist.co/forum/thread/8037",
+  "defaultRequired": true,
+  "requirements": [
+    {
+      "id": 1,
+      "question": "JoJo no Kimyou na Bouken (2000)",
+      "preset": "https://anilist.co/anime/665"
+    },
+    {
+      "id": 2,
+      "question": "JoJo no Kimyou na Bouken",
+      "preset": "https://anilist.co/anime/666"
+    },
+    {
+      "id": 3,
+      "question": "JoJo no Kimyou na Bouken",
+      "preset": "https://anilist.co/anime/14719"
+    },
+    {
+      "id": 4,
+      "question": "JoJo no Kimyou na Bouken: Stardust Crusaders",
+      "preset": "https://anilist.co/anime/20474"
+    },
+    {
+      "id": 5,
+      "question": "JoJo no Kimyou na Bouken: Stardust Crusaders - Egypt-hen",
+      "preset": "https://anilist.co/anime/20799"
+    },
+    {
+      "id": 6,
+      "question": "JoJo no Kimyou na Bouken: Diamond wa Kudakenai",
+      "preset": "https://anilist.co/anime/21450"
+    },
+    {
+      "id": 7,
+      "question": "JoJo no Kimyou na Bouken: Ougon no Kaze",
+      "preset": "https://anilist.co/anime/102883"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "name": "Monogatari Collection",
+  "link": "https://anilist.co/forum/thread/7566",
+  "defaultRequired": true,
+  "requirements": [
+    {
+      "id": 1,
+      "question": "Bakemonogatari",
+      "preset": "https://anilist.co/anime/5081"
+    },
+    {
+      "id": 2,
+      "question": "Kizumonogatari I: Tekketsu-hen",
+      "preset": "https://anilist.co/anime/9260"
+    },
+    {
+      "id": 3,
+      "question": "Kizumonogatari II: Nekketsu-hen",
+      "preset": "https://anilist.co/anime/21399"
+    },
+    {
+      "id": 4,
+      "question": "Kizumonogatari III: Reikketsu-hen",
+      "preset": "https://anilist.co/anime/21400"
+    },
+    {
+      "id": 5,
+      "question": "Nisemonogatari",
+      "preset": "https://anilist.co/anime/11597"
+    },
+    {
+      "id": 6,
+      "question": "Nekomonogatari Kuro",
+      "preset": "https://anilist.co/anime/15689"
+    },
+    {
+      "id": 7,
+      "question": "Monogatari Series: 2nd Season",
+      "preset": "https://anilist.co/anime/17074"
+    },
+    {
+      "id": 8,
+      "question": "Hanamonogatari",
+      "preset": "https://anilist.co/anime/20593"
+    },
+    {
+      "id": 9,
+      "question": "Tsukimonogatari",
+      "preset": "https://anilist.co/anime/20918"
+    },
+    {
+      "id": 10,
+      "question": "Owarimonogatari",
+      "preset": "https://anilist.co/anime/21262"
+    },
+    {
+      "id": 11,
+      "question": "Koyomimonogatari",
+      "preset": "https://anilist.co/anime/21520"
+    },
+    {
+      "id": 12,
+      "question": "Owarimonogatari (Ge)",
+      "preset": "https://anilist.co/anime/21745"
+    },
+    {
+      "id": 13,
+      "question": "Zoku Owarimonogatari",
+      "preset": "https://anilist.co/anime/100815"
+    }
+  ]
+}
