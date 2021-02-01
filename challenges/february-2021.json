@@ -1,0 +1,74 @@
+{
+  "name": "February 2021 Monthly Challenge",
+  "link": "https://anilist.co/forum/thread/23941",
+  "defaultRequired": true,
+  "requirements": [
+    {
+      "id": 1,
+      "question": "Watch an anime with the format “TV” and the tag “Primarily Male Cast”"
+    },
+    {
+      "id": 2,
+      "question": "Watch an anime from our \"Cute Boys Doing Cute Things\" community list"
+    },
+    {
+      "id": 3,
+      "question": "Boys Being Boys: Watch an anime with the tag “Boys' Love”, “Reverse Harem” or “Shounen”"
+    },
+    {
+      "id": 4,
+      "question": "Watch an anime featuring one of your favourite male voice actors",
+      "additionalInformation": [
+        { "type": "Link", "field": "Voice Actor", "subtype": "Staff" }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Watch an anime with the tag “Male Protagonist” and the genre “Slice of Life”, “Sports” or “Romance”"
+    },
+    {
+      "id": 6,
+      "question": "Demon Boys: Watch an anime with a male main character that is not human",
+      "additionalInformation": [
+        { "type": "Link", "field": "Character", "subtype": "Character" },
+        { "type": "Label", "field": "Species" }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Secret Boy: Watch an anime featuring one of another participant’s favourite male characters that has 500 favourites or less",
+      "additionalInformation": [
+        { "type": "Link", "field": "Character", "subtype": "Character" },
+        {
+          "type": "Link",
+          "field": "Challenge Post",
+          "subtype": "ChallengeUser",
+          "occultField": true,
+          "runAfter": " // [${name}’s Favourites List](https://anilist.co/user/${name}/favorites)"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Watch an anime with a topless male character OR an anime with a “kabedon” scene",
+      "additionalInformation": [{ "type": "Link", "field": "Screenshot" }]
+    },
+    {
+      "id": 9,
+      "question": "Watch an anime that has the letters “C, U, T, E” or “B, O, Y, S” in the title"
+    },
+    {
+      "id": 10,
+      "question": "Watch an anime that features another participant’s cute boy",
+      "additionalInformation": [
+        { "type": "Link", "field": "Character", "subtype": "Character" },
+        {
+          "type": "Link",
+          "field": "Challenge Post",
+          "subtype": "ChallengeUser",
+          "occultField": true
+        }
+      ]
+    }
+  ]
+}
