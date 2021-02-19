@@ -22,7 +22,8 @@
       { "name": "Monogatari Series", "file": "monogatari" },
       { "name": "JoJo's Bizarre Adventure", "file": "jojo" },
       { "name": "Initial D", "file": "initialD" },
-      { "name": "Higurashi", "file": "higurashi" }
+      { "name": "Higurashi", "file": "higurashi" },
+      { "name": "Gintama", "file": "gintama" }
     ]
   },
   { "name": "Classic", "file": "classic" }
