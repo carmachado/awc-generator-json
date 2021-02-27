@@ -1,30 +1,38 @@
 [
   {
-    "name": "Time-Limited",
+    "name": "Limited",
     "childrens": [
-      { "name": "Seasonal", "file": "seasonal" },
-      { "name": "Staff Pick 2020", "file": "staff-picks-2020" },
-      { "name": "January 2021", "file": "january-2021" },
-      { "name": "February 2021", "file": "february-2021" }
+      { "name": "Staff Pick 2020", "file": "limited/staff-picks-2020" },
+      { "name": "Winter 2021", "file": "limited/winter-2021" },
+      { "name": "February 2021", "file": "limited/february-2021" }
     ]
   },
   {
     "name": "Tier",
     "childrens": [
-      { "name": "Beginner's", "file": "beginners" },
-      { "name": "Intermediate", "file": "intermediate" },
-      { "name": "Advanced", "file": "advanced" }
+      { "name": "Beginner's", "file": "tier/beginners" },
+      { "name": "Intermediate", "file": "tier/intermediate" },
+      { "name": "Advanced", "file": "tier/advanced" }
     ]
   },
   {
     "name": "Franchises",
     "childrens": [
-      { "name": "Monogatari Series", "file": "monogatari" },
-      { "name": "JoJo's Bizarre Adventure", "file": "jojo" },
-      { "name": "Initial D", "file": "initialD" },
-      { "name": "Higurashi", "file": "higurashi" },
-      { "name": "Gintama", "file": "gintama" },
-      { "name": "Love Live", "file": "love-live" }
+      { "name": "Monogatari Series", "file": "franchises/monogatari" },
+      { "name": "JoJo's Bizarre Adventure", "file": "franchises/jojo" },
+      { "name": "Initial D", "file": "franchises/initialD" },
+      { "name": "Higurashi", "file": "franchises/higurashi" },
+      { "name": "Gintama", "file": "franchises/gintama" },
+      { "name": "Love Live", "file": "franchises/love-live" }
+    ]
+  },
+  {
+    "name": "Legends",
+    "childrens": [
+      { "name": "Satoshi Kon", "file": "legends/satoshi-kon" },
+      { "name": "Makoto Shinkai", "file": "legends/makoto-shinkai" },
+      { "name": "Isao Takahata", "file": "legends/isao-takahata" },
+      { "name": "Kunihiko Ikuhara", "file": "legends/kunihiko-ikuhara" }
     ]
   },
   { "name": "Classic", "file": "classic" }

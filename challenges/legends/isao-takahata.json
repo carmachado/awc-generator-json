@@ -1,0 +1,57 @@
+{
+  "name": "Isao Takahata Collection Challenge",
+  "link": "https://anilist.co/forum/thread/16264",
+  "defaultRequired": true,
+  "requirements": [
+    {
+      "id": 1,
+      "question": "Kaguya-hime no Monogatari",
+      "preset": "https://anilist.co/anime/16664"
+    },
+    {
+      "id": 2,
+      "question": "Tonari no Yamada-kun",
+      "preset": "https://anilist.co/anime/415"
+    },
+    {
+      "id": 3,
+      "question": "Heisei Tanuki Gassen Ponpoko",
+      "preset": "https://anilist.co/anime/1030"
+    },
+    {
+      "id": 4,
+      "question": "Omoide Poro Poro",
+      "preset": "https://anilist.co/anime/1029"
+    },
+    {
+      "id": 5,
+      "question": "Hotaru no Haka",
+      "preset": "https://anilist.co/anime/578"
+    },
+    {
+      "id": 6,
+      "question": "Cello Hiki no Gauche",
+      "preset": "https://anilist.co/anime/1049"
+    },
+    {
+      "id": 7,
+      "question": "Jarinko Chie (Movie)",
+      "preset": "https://anilist.co/anime/3946"
+    },
+    {
+      "id": 8,
+      "question": "Akage no Anne",
+      "preset": "https://anilist.co/anime/283"
+    },
+    {
+      "id": 9,
+      "question": "Alps no Shoujo Heidi",
+      "preset": "https://anilist.co/anime/2225"
+    },
+    {
+      "id": 10,
+      "question": "Taiyou no Ouji: Horus no Daibouken",
+      "preset": "https://anilist.co/anime/1044"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Makoto Shinkai Collection Challenge",
+  "link": "https://anilist.co/forum/thread/9002",
+  "defaultRequired": true,
+  "requirements": [
+    {
+      "id": 1,
+      "question": "Tenki no Ko",
+      "preset": "https://anilist.co/anime/106286"
+    },
+    {
+      "id": 2,
+      "question": "Kimi no Na wa.",
+      "preset": "https://anilist.co/anime/21519"
+    },
+    {
+      "id": 3,
+      "question": "Kotonoha no Niwa",
+      "preset": "https://anilist.co/anime/16782"
+    },
+    {
+      "id": 4,
+      "question": "Hoshi wo Ou Kodomo",
+      "preset": "https://anilist.co/anime/9760"
+    },
+    {
+      "id": 5,
+      "question": "Byousoku 5 Centimeter",
+      "preset": "https://anilist.co/anime/1689"
+    },
+    {
+      "id": 6,
+      "question": "Kumo no Mukou, Yakusoku no Basho",
+      "preset": "https://anilist.co/anime/433"
+    },
+    {
+      "id": 7,
+      "question": "Hoshi no Koe",
+      "preset": "https://anilist.co/anime/256"
+    },
+    {
+      "id": 8,
+      "question": "Kanojo to Kanojo no Neko",
+      "preset": "https://anilist.co/anime/1004"
+    },
+    {
+      "id": 9,
+      "question": "Dareka no Manazashi",
+      "preset": "https://anilist.co/anime/17121"
+    },
+    {
+      "id": 10,
+      "question": "Cross Road",
+      "preset": "https://anilist.co/anime/20831"
+    }
+  ]
+}

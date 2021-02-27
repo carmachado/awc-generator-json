@@ -1,11 +1,13 @@
 {
   "name": "February 2021 Monthly Challenge",
   "link": "https://anilist.co/forum/thread/23941",
-  "defaultRequired": true,
+  "defaultRequired": false,
+  "autoOccult": true,
   "requirements": [
     {
       "id": 1,
-      "question": "Watch an anime with the format “TV” and the tag “Primarily Male Cast”"
+      "question": "Watch an anime with the format “TV” and the tag “Primarily Male Cast”",
+      "required": true
     },
     {
       "id": 2,
