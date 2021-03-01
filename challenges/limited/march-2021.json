@@ -1,0 +1,59 @@
+{
+  "name": "March 2021 Monthly Challenge",
+  "link": "https://anilist.co/forum/thread/26122",
+  "defaultRequired": false,
+  "autoOccult": true,
+  "requirements": [
+    {
+      "id": 1,
+      "question": "Watch an anime with the format “TV” and the tag “Historical” or “Mythology”",
+      "required": true
+    },
+    { "id": 2, "question": "Watch one of the Japanese Animated Film Classics" },
+    {
+      "id": 3,
+      "question": "Ancient Traditions: Watch an anime from the “Matsuri”, “Shrines & Torii” or “Shishi-odoshi” community lists"
+    },
+    {
+      "id": 4,
+      "question": "Watch an anime that features a historical figure as a character",
+      "additionalInformation": [
+        { "type": "Link", "field": "Character", "subtype": "Character" },
+        { "type": "Link", "field": "Wikipedia" }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Lost Era: Watch an anime that began airing in a year that you have watched 5 or less titles from",
+      "additionalInformation": [{ "type": "Link", "field": "Screenshot" }]
+    },
+    {
+      "id": 6,
+      "question": "Making History: Watch an anime that aired in the Reiwa Period"
+    },
+    {
+      "id": 7,
+      "question": "Watch an anime that fulfils a requirement from the Archaeologist’s Challenge",
+      "additionalInformation": [{ "type": "Label", "field": "Requirement" }]
+    },
+    {
+      "id": 8,
+      "question": "2680 Years since the Founding of Japan: Watch an anime that has an AniList ID of 2680 or less"
+    },
+    {
+      "id": 9,
+      "question": "Sengoku Era: Watch an anime with the tag “Samurai”, “Ninja” or “War”"
+    },
+    {
+      "id": 10,
+      "question": "The Shogun’s Decree: Watch an anime used by another challenger on page 1 of this challenge thread",
+      "additionalInformation": [
+        {
+          "type": "Link",
+          "field": "Challenge Post",
+          "subtype": "ChallengeUser"
+        }
+      ]
+    }
+  ]
+}
