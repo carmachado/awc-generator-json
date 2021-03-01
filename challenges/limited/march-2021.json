@@ -51,7 +51,8 @@
         {
           "type": "Link",
           "field": "Challenge Post",
-          "subtype": "ChallengeUser"
+          "subtype": "ChallengeUser",
+          "occultField": true
         }
       ]
     }
