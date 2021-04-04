@@ -4,6 +4,7 @@
     "childrens": [
       { "name": "Staff Pick 2020", "file": "limited/staff-picks-2020" },
       { "name": "Winter 2021", "file": "limited/winter-2021" },
+      { "name": "Spring 2021", "file": "limited/spring-2021" },
       { "name": "March 2021", "file": "limited/march-2021" },
       { "name": "April 2021", "file": "limited/april-2021" }
     ]
