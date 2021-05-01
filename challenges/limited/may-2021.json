@@ -1,0 +1,22 @@
+{
+  "name": "May 2021 Monthly Challenge",
+  "link": "https://anilist.co/forum/thread/32307",
+  "defaultRequired": false,
+  "autoOccult": true,
+  "requirements": [
+    {
+      "id": "01",
+      "question": "Watch an anime with the format “TV”",
+      "required": true
+    },
+    { "id": "02", "question": "Watch an anime" },
+    { "id": "03", "question": "Watch an anime" },
+    { "id": "04", "question": "Watch an anime" },
+    { "id": "05", "question": "Watch an anime" },
+    { "id": "06", "question": "Watch an anime" },
+    { "id": "07", "question": "Watch an anime" },
+    { "id": "08", "question": "Watch an anime" },
+    { "id": "09", "question": "Watch an anime" },
+    { "id": "10", "question": "Watch an anime" }
+  ]
+}
