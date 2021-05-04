@@ -1,0 +1,319 @@
+{
+  "name": "Slice of Life Genre Challenge",
+  "link": "https://anilist.co/forum/thread/5293",
+  "type": "genre",
+  "defaultRequired": false,
+  "autoOccult": true,
+  "modes": [
+    { "value": 0, "label": "Easy", "quantity": 15 },
+    { "value": 1, "label": "Normal", "quantity": 15 },
+    { "value": 2, "label": "Hard", "quantity": 15 }
+  ],
+  "requirements": [
+    {
+      "id": "01",
+      "question": "Watch an anime with the genres “Slice of Life” and “Comedy”",
+      "description": "Watch an anime with the genres anilink('“Slice of Life” and “Comedy”', 'genres=Slice%20of%20Life&genres=Comedy')"
+    },
+    {
+      "id": "02",
+      "question": "Watch a “Slice of Life” anime with the tag “Shounen” or “Seinen”",
+      "description": "Watch a “Slice of Life” anime with the tag anilink('“Shounen”', 'genres=Slice%20of%20Life&genres=Shounen') or anilink('“Seinen”', 'genres=Slice%20of%20Life&genres=Seinen')"
+    },
+    {
+      "id": "03",
+      "question": "Watch a “Slice of Life” anime with the tag “Shoujo” or “Josei”",
+      "description": "Watch a “Slice of Life” anime with the tag anilink('“Shoujo”', 'genres=Slice%20of%20Life&genres=Shoujo') or anilink('“Josei”', 'genres=Slice%20of%20Life&genres=Josei')"
+    },
+    {
+      "id": "04",
+      "question": "Watch an anime with the genres “Slice of Life” and “Drama”",
+      "description": "Watch an anime with the genres anilink('“Slice of Life” and “Drama”', 'genres=Slice%20of%20Life&genres=Drama')"
+    },
+    {
+      "id": "05",
+      "question": "Watch a “Slice of Life” anime with the genre “Fantasy” or “Sci-Fi”",
+      "description": "Watch a “Slice of Life” anime with the genre anilink('“Fantasy”', 'genres=Slice%20of%20Life&genres=Fantasy') or anilink('“Sci-Fi”', 'genres=Slice%20of%20Life&genres=Sci-Fi')"
+    },
+    {
+      "id": "06",
+      "question": "Watch an anime with the genres “Slice of Life” and “Romance”",
+      "description": "Watch an anime with the genres anilink('“Slice of Life” and “Romance”', 'genres=Slice%20of%20Life&genres=Romance')"
+    },
+    {
+      "id": "07",
+      "question": "Watch a “Slice of Life” anime with any of the genres: “Music”, “Sports” or “Supernatural”",
+      "description": "Watch a “Slice of Life” anime with any of the genres: anilink('“Music”', 'genres=Slice%20of%20Life&genres=Music'), anilink('“Sports”', 'genres=Slice%20of%20Life&genres=Sports') or anilink('“Supernatural”', 'genres=Slice%20of%20Life&genres=Supernatural')"
+    },
+    {
+      "id": "08",
+      "question": "Watch a “Slice of Life” anime with any of the tags: “Iyashikei”, “School” or “Coming of Age”",
+      "description": "Watch a “Slice of Life” anime with any of the tags: anilink('“Iyashikei”', 'genres=Slice%20of%20Life&genres=Iyashikei'), anilink('“School”', 'genres=Slice%20of%20Life&genres=School') or anilink('“Coming of Age”', 'genres=Slice%20of%20Life&genres=Coming of Age')"
+    },
+    {
+      "id": "09",
+      "question": "Watch a “Slice of Life” anime with the format “Special”, “OVA” or “ONA”",
+      "description": "Watch a “Slice of Life” anime with the format anilink('“Special”, “OVA” or “ONA”', 'genres=Slice%20of%20Life&format=OVA&format=ONA&format=SPECIAL')"
+    },
+    {
+      "id": "10",
+      "question": "Watch a “Slice of Life” anime with the format “Movie”",
+      "description": "Watch a “Slice of Life” anime with the format anilink('“Movie”', 'genres=Slice%20of%20Life&format=MOVIE')"
+    },
+    {
+      "id": "11",
+      "question": "Watch a “Slice of Life” anime with the format “TV”",
+      "description": "Watch a “Slice of Life” anime with the format anilink('“TV”', 'genres=Slice%20of%20Life&format=TV')"
+    },
+    {
+      "id": "12",
+      "question": "Watch a “Slice of Life” anime with the format “TV” or “TV Short”",
+      "description": "Watch a “Slice of Life” anime with the format anilink('“TV” or “TV Short”', 'genres=Slice%20of%20Life&format=TV&format=TV_SHORT')"
+    },
+    {
+      "id": "13",
+      "question": "Watch a “Slice of Life” anime with a mean score of 80% or above on AniList"
+    },
+    {
+      "id": "14",
+      "question": "Watch a “Slice of Life” anime with a mean score of 70% to 79% on AniList"
+    },
+    {
+      "id": "15",
+      "question": "Watch a “Slice of Life” anime with a mean score of 69% or below on AniList"
+    },
+    {
+      "id": "16",
+      "question": "Watch a “Slice of Life” anime with the source “Original”",
+      "description": "Watch a “Slice of Life” anime with the source anilink('“Original”', 'genres=Slice%20of%20Life&source%20material=ORIGINAL')"
+    },
+    {
+      "id": "17",
+      "question": "Watch a “Slice of Life” anime with the source “Light Novel”, “Visual Novel” or “Novel”",
+      "description": "Watch a “Slice of Life” anime with the source anilink('“Light Novel”', 'genres=Slice%20of%20Life&source%20material=LIGHT_NOVEL'), anilink('“Visual Novel”', 'genres=Slice%20of%20Life&source%20material=VISUAL_NOVEL') or anilink('“Novel”', 'genres=Slice%20of%20Life&source%20material=NOVEL')"
+    },
+    {
+      "id": "18",
+      "question": "Watch a “Slice of Life” anime with the source “Manga”",
+      "description": "Watch a “Slice of Life” anime with the source anilink('“Manga”', 'genres=Slice%20of%20Life&source%20material=MANGA')"
+    },
+    {
+      "id": "19",
+      "question": "Watch a \"Slice of Life\" anime from different studios: 1st studio",
+      "description": "Watch a anilink('\"Slice of Life\"', 'genres=Slice%20of%20Life') anime from different studios: 1st studio",
+      "additionalInformation": [
+        {
+          "type": "Label",
+          "field": "Studio"
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "question": "Watch a \"Slice of Life\" anime from different studios: 2nd studio",
+      "description": "Watch a anilink('\"Slice of Life\"', 'genres=Slice%20of%20Life') anime from different studios: 2nd studio",
+      "additionalInformation": [
+        {
+          "type": "Label",
+          "field": "Studio"
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "question": "Watch a \"Slice of Life\" anime from different studios: 3rd studio",
+      "description": "Watch a anilink('\"Slice of Life\"', 'genres=Slice%20of%20Life') anime from different studios: 3rd studio",
+      "additionalInformation": [
+        {
+          "type": "Label",
+          "field": "Studio"
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "question": "Watch a \"Slice of Life\" anime from different studios: 4th studio",
+      "description": "Watch a anilink('\"Slice of Life\"', 'genres=Slice%20of%20Life') anime from different studios: 4th studio",
+      "additionalInformation": [
+        {
+          "type": "Label",
+          "field": "Studio"
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "question": "Watch a \"Slice of Life\" anime that started airing in 1999 or earlier",
+      "description": "Watch a \"Slice of Life\" anime that started airing in anilink('1999 or earlier', 'genres=Slice%20of%20Life&year%20range=1930&year%20range=1999')"
+    },
+    {
+      "id": "24",
+      "question": "Watch a \"Slice of Life\" anime that started airing between 2000 and 2004",
+      "description": "Watch a \"Slice of Life\" anime that started airing between anilink('2000 and 2004', 'genres=Slice%20of%20Life&year%20range=2000&year%20range=2004')"
+    },
+    {
+      "id": "25",
+      "question": "Watch a \"Slice of Life\" anime that started airing between 2005 and 2009",
+      "description": "Watch a \"Slice of Life\" anime that started airing between anilink('2005 and 2009', 'genres=Slice%20of%20Life&year%20range=2005&year%20range=2009')"
+    },
+    {
+      "id": "26",
+      "question": "Watch a \"Slice of Life\" anime that started airing between 2010 and 2014",
+      "description": "Watch a \"Slice of Life\" anime that started airing between anilink('2010 and 2014', 'genres=Slice%20of%20Life&year%20range=2010&year%20range=2014')"
+    },
+    {
+      "id": "27",
+      "question": "Watch a \"Slice of Life\" anime that started airing between 2015 and the current year",
+      "description": "Watch a \"Slice of Life\" anime that started airing between anilink('2015 and the current year', 'genres=Slice%20of%20Life&year%20range=2015&year%20range=CURRENT_YEAR')"
+    },
+    {
+      "id": "28",
+      "question": "Watch a \"Slice of Life\" anime with 10 episodes or less",
+      "description": "Watch a \"Slice of Life\" anime with anilink('10 episodes or less', 'genres=Slice%20of%20Life&episodes=0&episodes=10')"
+    },
+    {
+      "id": "29",
+      "question": "Watch a \"Slice of Life\" anime with 13 episodes or more",
+      "description": "Watch a \"Slice of Life\" anime with anilink('13 episodes or more', 'genres=Slice%20of%20Life&episodes=13&episodes=10000')"
+    },
+    {
+      "id": "30",
+      "question": "Watch a \"Slice of Life\" anime with 24 episodes or more",
+      "description": "Watch a \"Slice of Life\" anime with anilink('24 episodes or more', 'genres=Slice%20of%20Life&episodes=24&episodes=10000')"
+    },
+    {
+      "id": "31",
+      "question": "Watch a \"Slice of Life\" anime that started airing in any Spring season",
+      "description": "Watch a anilink('\"Slice of Life\"', 'genres=Slice%20of%20Life') anime that started airing in any Spring season"
+    },
+    {
+      "id": "32",
+      "question": "Watch a \"Slice of Life\" anime that started airing in any Summer season",
+      "description": "Watch a anilink('\"Slice of Life\"', 'genres=Slice%20of%20Life') anime that started airing in any Summer season"
+    },
+    {
+      "id": "33",
+      "question": "Watch a \"Slice of Life\" anime that started airing in any Fall season",
+      "description": "Watch a anilink('\"Slice of Life\"', 'genres=Slice%20of%20Life') anime that started airing in any Fall season"
+    },
+    {
+      "id": "34",
+      "question": "Watch a \"Slice of Life\" anime that started airing in any Winter season",
+      "description": "Watch a anilink('\"Slice of Life\"', 'genres=Slice%20of%20Life') anime that started airing in any Winter season"
+    },
+    {
+      "id": "35",
+      "question": "Watch a \"Slice of Life\" anime with a title that begins with a letter between A–L",
+      "description": "Watch a anilink('\"Slice of Life\"', 'genres=Slice%20of%20Life') anime with a title that begins with a letter between A–L"
+    },
+    {
+      "id": "36",
+      "question": "Watch a \"Slice of Life\" anime with a title that begins with a letter between M–Z",
+      "description": "Watch a anilink('\"Slice of Life\"', 'genres=Slice%20of%20Life') anime with a title that begins with a letter between M–Z"
+    },
+    {
+      "id": "37",
+      "question": "Watch a “Slice of Life” anime with a non-alphanumeric character in the title",
+      "description": "Watch a anilink('“Slice of Life”', 'genres=Slice%20of%20Life') anime with a non-alphanumeric character in the title"
+    },
+    {
+      "id": "38",
+      "question": "Watch a “Slice of Life” anime that takes place in a school setting",
+      "description": "Watch a “Slice of Life” anime that takes place in a anilink('school setting', 'genres=Slice%20of%20Life&genres=School')"
+    },
+    {
+      "id": "39",
+      "question": "Watch a “Slice of Life” anime where three or more characters are members of the same family",
+      "description": "Watch a “Slice of Life” anime where three or more characters are members of the same anilink('family', 'genres=Slice%20of%20Life&genres=Family%20Life')",
+      "additionalInformation": [
+        { "type": "Link", "field": "Character 1", "subtype": "Character" },
+        { "type": "Link", "field": "Character 2", "subtype": "Character" },
+        { "type": "Link", "field": "Character 3", "subtype": "Character" }
+      ]
+    },
+    {
+      "id": "40",
+      "question": "Watch a “Slice of Life” anime with a main character that is an adult",
+      "description": "Watch a “Slice of Life” anime with a main character that is an anilink('adult', 'genres=Slice%20of%20Life&genres=Primarily%20Adult%20Cast')",
+      "additionalInformation": [
+        { "type": "Link", "field": "Character", "subtype": "Character" }
+      ]
+    },
+    {
+      "id": "41",
+      "question": "Watch a “Slice of Life” anime with a scene featuring cherry blossoms",
+      "description": "Watch a “Slice of Life” anime with a scene featuring AWCAnilist('cherry blossoms', 'Cherry%20Blossoms')"
+    },
+    {
+      "id": "42",
+      "question": "Watch a “Slice of Life” anime with a main character that lives alone",
+      "description": "Watch a anilink('“Slice of Life”', 'genres=Slice%20of%20Life') anime with a main character that lives alone",
+      "additionalInformation": [
+        { "type": "Link", "field": "Character", "subtype": "Character" }
+      ]
+    },
+    {
+      "id": "43",
+      "question": "Watch a “Slice of Life” anime with a main character that has lost a loved one",
+      "description": "Watch a anilink('“Slice of Life”', 'genres=Slice%20of%20Life') anime with a main character that has lost a loved one",
+      "additionalInformation": [
+        { "type": "Link", "field": "Character", "subtype": "Character" }
+      ]
+    },
+    {
+      "id": "44",
+      "question": "Watch a \"Slice of Life\" anime from another participant’s challenge or a \"Slice of Life\" anime recommended by a user on the AWC Discord",
+      "additionalInformation": [
+        {
+          "type": "Link",
+          "field": "Screenshot/Challenger"
+        }
+      ]
+    },
+    {
+      "id": "45",
+      "question": "Watch a \"Slice of Life\" anime you have not used for any other AWC Challenge",
+      "description": "Watch a anilink('\"Slice of Life\"', 'genres=Slice%20of%20Life') anime you have not used for any other AWC Challenge"
+    },
+    {
+      "id": "B1",
+      "question": "Watch a \"Slice of Life\" anime that started airing before 1990",
+      "description": "Watch a \"Slice of Life\" anime that started airing anilink('before 1990', 'genres=Slice%20of%20Life&year%20range=1930&year%20range=1990')",
+      "type": "bonus"
+    },
+    {
+      "id": "B2",
+      "question": "Watch an award-winning “Slice of Life” anime",
+      "description": "Watch an award-winning anilink('“Slice of Life”', 'genres=Slice%20of%20Life') anime",
+      "additionalInformation": [
+        {
+          "type": "Label",
+          "field": "Award"
+        },
+        {
+          "type": "Link",
+          "field": "Source"
+        }
+      ],
+      "type": "bonus"
+    },
+    {
+      "id": "B3",
+      "question": "Watch a \"Slice of Life\" anime listed in the Top 250 Most Popular anime according to AnimeNewsNetwork",
+      "description": "Watch a \"Slice of Life\" anime listed in the Top 250 Most Popular anime genlink('according to AnimeNewsNetwork', 'https://www.animenewsnetwork.com/encyclopedia/ratings-anime.php?top50=popular&n=250')",
+      "type": "bonus"
+    },
+    {
+      "id": "B4",
+      "question": "Watch a \"Slice of Life\" anime that also has your least favourite genre (based on Mean Score)",
+      "description": "Watch a anilink('\"Slice of Life\"', 'genres=Slice%20of%20Life') anime that also has your least favourite genre (based on Mean Score)",
+      "additionalInformation": [
+        {
+          "type": "Link",
+          "field": "Screenshot"
+        }
+      ],
+      "type": "bonus"
+    }
+  ]
+}
