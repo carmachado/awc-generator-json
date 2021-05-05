@@ -36,5 +36,9 @@
       { "name": "Kunihiko Ikuhara", "file": "legends/kunihiko-ikuhara" }
     ]
   },
-  { "name": "Classic", "file": "classic" }
+  { "name": "Classic", "file": "classic" },
+  {
+    "name": "Genre",
+    "childrens": [{ "name": "Slice of Life", "file": "genre/slice-of-life" }]
+  }
 ]
