@@ -39,6 +39,9 @@
   { "name": "Classic", "file": "classic" },
   {
     "name": "Genre",
-    "childrens": [{ "name": "Slice of Life", "file": "genre/slice-of-life" }]
+    "childrens": [
+      { "name": "Action", "file": "genre/action" },
+      { "name": "Slice of Life", "file": "genre/slice-of-life" }
+    ]
   }
 ]

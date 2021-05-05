@@ -1,0 +1,368 @@
+{
+  "name": "Action Genre Challenge",
+  "link": "https://anilist.co/forum/thread/5288",
+  "type": "genre",
+  "defaultRequired": false,
+  "autoOccult": true,
+  "modes": [
+    { "value": 0, "label": "Easy", "quantity": 20 },
+    { "value": 1, "label": "Normal", "quantity": 20 },
+    { "value": 2, "label": "Hard", "quantity": 20 }
+  ],
+  "requirements": [
+    {
+      "id": "01",
+      "question": "Watch an anime with the genres “Action” and “Adventure”",
+      "description": "Watch an anime with the genres anilink('“Action” and “Adventure”', 'genres=Action&genres=Adventure')"
+    },
+    {
+      "id": "02",
+      "question": "Watch an anime with the genres “Action” and “Comedy”",
+      "description": "Watch an anime with the genres anilink('“Action” and “Comedy”', 'genres=Action&genres=Comedy')"
+    },
+    {
+      "id": "03",
+      "question": "Watch an “Action” anime with the tag “Shounen” or “Seinen”",
+      "description": "Watch an “Action” anime with the tag anilink('“Shounen”', 'genres=Action&genres=Shounen') or anilink('“Seinen”', 'genres=Action&genres=Seinen')"
+    },
+    {
+      "id": "04",
+      "question": "Watch an “Action” anime with the tag “Shoujo” or “Josei”",
+      "description": "Watch an “Action” anime with the tag anilink('“Shoujo”', 'genres=Action&genres=Shoujo') or anilink('“Josei”', 'genres=Action&genres=Josei')"
+    },
+    {
+      "id": "05",
+      "question": "Watch an “Action” anime with the genre “Romance” or the tag “Harem”",
+      "description": "Watch an “Action” anime with the genre anilink('“Romance”', 'genres=Action&genres=Romance') or the tag anilink('“Harem”', 'genres=Action&genres=Harem')"
+    },
+    {
+      "id": "06",
+      "question": "Watch an anime with the genres “Action” and “Fantasy”",
+      "description": "Watch an anime with the genres anilink('“Action” and “Fantasy”', 'genres=Action&genres=Fantasy')"
+    },
+    {
+      "id": "07",
+      "question": "Watch an anime with the genres “Action” and “Sci-Fi”",
+      "description": "Watch an anime with the genres anilink('“Action” and “Sci-Fi”', 'genres=Action&genres=Sci-Fi')"
+    },
+    {
+      "id": "08",
+      "question": "Watch an “Action” anime with the genre “Drama” or “Slice of Life”",
+      "description": "Watch an “Action” anime with the genre anilink('“Drama”', 'genres=Action&genres=Drama') or anilink('“Slice of Life”', 'genres=Action&genres=Slice of Life')"
+    },
+    {
+      "id": "09",
+      "question": "Watch an “Action” anime with any of the genres or tags: “Sports”, “Mecha” or “Magic”",
+      "description": "Watch an “Action” anime with any of the genres or tags: anilink('“Sports”', 'genres=Action&genres=Sports'), anilink('“Mecha”', 'genres=Action&genres=Mecha') or anilink('“Magic”', 'genres=Action&genres=Magic')"
+    },
+    {
+      "id": "10",
+      "question": "Watch an “Action” anime with any of the genres: “Mystery”, “Horror”, “Psychological” or “Thriller”",
+      "description": "Watch an “Action” anime with any of the genres: anilink('“Mystery”', 'genres=Action&genres=Mystery'), anilink('“Horror”', 'genres=Action&genres=Horror'), anilink('“Psychological”', 'genres=Action&genres=Psychological') or anilink('“Thriller”', 'genres=Action&genres=Thriller')"
+    },
+    {
+      "id": "11",
+      "question": "Watch an “Action” anime with any of the tags: “Ninja”, “Samurai”, “Martial Arts” or “Swordplay”",
+      "description": "Watch an “Action” anime with any of the tags: anilink('“Ninja”', 'genres=Action&genres=Ninja'), anilink('“Samurai”', 'genres=Action&genres=Samurai'), anilink('“Martial Arts”', 'genres=Action&genres=Martial Arts') or anilink('“Swordplay”', 'genres=Action&genres=Swordplay')"
+    },
+    {
+      "id": "12",
+      "question": "Watch an “Action” anime with the format “Special”",
+      "description": "Watch an “Action” anime with the format anilink('“Special”', 'genres=Action&format=SPECIAL')"
+    },
+    {
+      "id": "13",
+      "question": "Watch another “Action” anime with the format “Special”",
+      "description": "Watch another “Action” anime with the format anilink('“Special”', 'genres=Action&format=SPECIAL')"
+    },
+    {
+      "id": "14",
+      "question": "Watch an “Action” anime with the format “OVA” or “ONA”",
+      "description": "Watch an “Action” anime with the format anilink('“OVA” or “ONA”', 'genres=Action&format=OVA&format=ONA')"
+    },
+    {
+      "id": "15",
+      "question": "Watch another “Action” anime with the format “OVA” or “ONA”",
+      "description": "Watch another “Action” anime with the format anilink('“OVA” or “ONA”', 'genres=Action&format=OVA&format=ONA')"
+    },
+    {
+      "id": "16",
+      "question": "Watch an “Action” anime with the format “Movie”",
+      "description": "Watch an “Action” anime with the format anilink('“Movie”', 'genres=Action&format=MOVIE')"
+    },
+    {
+      "id": "17",
+      "question": "Watch another “Action” anime with the format “Movie”",
+      "description": "Watch another “Action” anime with the format anilink('“Movie”', 'genres=Action&format=MOVIE')"
+    },
+    {
+      "id": "18",
+      "question": "Watch an “Action” anime with the format “TV”",
+      "description": "Watch an “Action” anime with the format anilink('“TV”', 'genres=Action&format=TV')"
+    },
+    {
+      "id": "19",
+      "question": "Watch an “Action” anime with the format “TV” or “TV Short”",
+      "description": "Watch an “Action” anime with the format anilink('“TV”', 'genres=Action&format=TV') or anilink('“TV Short”', 'genres=Action&format=TV_SHORT')"
+    },
+    {
+      "id": "20",
+      "question": "Watch an “Action” anime with a mean score of 80% or above on AniList",
+      "description": "Watch an anilink('“Action”', 'genres=Action') anime with a mean score of 80% or above on AniList"
+    },
+    {
+      "id": "21",
+      "question": "Watch an “Action” anime with a mean score of 70% to 79% on AniList",
+      "description": "Watch an anilink('“Action”', 'genres=Action') anime with a mean score of 70% to 79% on AniList"
+    },
+    {
+      "id": "22",
+      "question": "Watch an “Action” anime with a mean score of 69% or below on AniList",
+      "description": "Watch an anilink('“Action”', 'genres=Action') anime with a mean score of 69% or below on AniList"
+    },
+    {
+      "id": "23",
+      "question": "Watch an “Action” anime with the source “Original”",
+      "description": "Watch an “Action” anime with the source anilink('“Original”', 'genres=Action&source%20material=ORIGINAL')"
+    },
+    {
+      "id": "24",
+      "question": "Watch an “Action” anime with the source “Visual Novel”, “Video Game” or “Other”",
+      "description": "Watch an “Action” anime with the source anilink('“Visual Novel”', 'genres=Action&source%20material=VISUAL_NOVEL'), anilink('“Video Game”', 'genres=Action&source%20material=VIDEO_GAME') or anilink('“Other”', 'genres=Action&source%20material=OTHER')"
+    },
+    {
+      "id": "25",
+      "question": "Watch an “Action” anime with the source “Light Novel” or “Novel”",
+      "description": "Watch an “Action” anime with the source anilink('“Light Novel”', 'genres=Action&source%20material=LIGHT_NOVEL') or anilink('“Novel”', 'genres=Action&source%20material=NOVEL')"
+    },
+    {
+      "id": "26",
+      "question": "Watch an “Action” anime with the source “Manga”",
+      "description": "Watch an “Action” anime with the source anilink('“Manga”', 'genres=Action&source%20material=MANGA')"
+    },
+    {
+      "id": "27",
+      "question": "Watch an “Action” anime that has a prequel or a sequel listed as a relation on AniList",
+      "description": "Watch an anilink('“Action”', 'genres=Action') anime that has a prequel or a sequel listed as a relation on AniList"
+    },
+    {
+      "id": "28",
+      "question": "Watch an “Action” anime from different studios: 1st studio",
+      "description": "Watch an anilink('“Action”', 'genres=Action') anime from different studios: 1st studio",
+      "additionalInformation": [{ "type": "Label", "field": "Studio" }]
+    },
+    {
+      "id": "29",
+      "question": "Watch an “Action” anime from different studios: 2nd studio",
+      "description": "Watch an anilink('“Action”', 'genres=Action') anime from different studios: 2nd studio",
+      "additionalInformation": [{ "type": "Label", "field": "Studio" }]
+    },
+    {
+      "id": "30",
+      "question": "Watch an “Action” anime from different studios: 3rd studio",
+      "description": "Watch an anilink('“Action”', 'genres=Action') anime from different studios: 3rd studio",
+      "additionalInformation": [{ "type": "Label", "field": "Studio" }]
+    },
+    {
+      "id": "31",
+      "question": "Watch an “Action” anime from different studios: 4th studio",
+      "description": "Watch an anilink('“Action”', 'genres=Action') anime from different studios: 4th studio",
+      "additionalInformation": [{ "type": "Label", "field": "Studio" }]
+    },
+    {
+      "id": "32",
+      "question": "Watch an “Action” anime from different studios: 5th studio",
+      "description": "Watch an anilink('“Action”', 'genres=Action') anime from different studios: 5th studio",
+      "additionalInformation": [{ "type": "Label", "field": "Studio" }]
+    },
+    {
+      "id": "33",
+      "question": "Watch an “Action” anime from different studios: 6th studio",
+      "description": "Watch an anilink('“Action”', 'genres=Action') anime from different studios: 6th studio",
+      "additionalInformation": [{ "type": "Label", "field": "Studio" }]
+    },
+    {
+      "id": "34",
+      "question": "Watch an “Action” anime that started airing in 1999 or earlier",
+      "description": "Watch an “Action” anime that started airing in anilink('1999 or earlier', 'genres=Action&year%20range=1930&year%20range=1999')"
+    },
+    {
+      "id": "35",
+      "question": "Watch an “Action” anime that started airing between 2000 and 2004",
+      "description": "Watch an “Action” anime that started airing between anilink('2000 and 2004', 'genres=Action&year%20range=2000&year%20range=2004')"
+    },
+    {
+      "id": "36",
+      "question": "Watch an “Action” anime that started airing between 2005 and 2009",
+      "description": "Watch an “Action” anime that started airing between anilink('2005 and 2009', 'genres=Action&year%20range=2005&year%20range=2009')"
+    },
+    {
+      "id": "37",
+      "question": "Watch an “Action” anime that started airing between 2010 and 2014",
+      "description": "Watch an “Action” anime that started airing between anilink('2010 and 2014', 'genres=Action&year%20range=2010&year%20range=2014')"
+    },
+    {
+      "id": "38",
+      "question": "Watch an “Action” anime that started airing between anilink('2015 and the current year",
+      "description": "Watch an “Action” anime that started airing between anilink('2015 and the current year', 'genres=Action&year%20range=2015&year%20range=CURRENT_YEAR')"
+    },
+    {
+      "id": "39",
+      "question": "Watch an “Action” anime with 12 episodes or less",
+      "description": "Watch an “Action” anime with anilink('12 episodes or less', 'genres=Action&episodes=0&episodes=12')"
+    },
+    {
+      "id": "40",
+      "question": "Watch an “Action” anime with 13 episodes or more",
+      "description": "Watch an “Action” anime with anilink('13 episodes or more', 'genres=Action&episodes=13&episodes=10000')"
+    },
+    {
+      "id": "41",
+      "question": "Watch an “Action” anime with 24 episodes or more",
+      "description": "Watch an “Action” anime with anilink('24 episodes or more', 'genres=Action&episodes=24&episodes=10000')"
+    },
+    {
+      "id": "42",
+      "question": "Watch an “Action” anime with 30 episodes or more",
+      "description": "Watch an “Action” anime with anilink('30 episodes or more', 'genres=Action&episodes=30&episodes=10000')"
+    },
+    {
+      "id": "43",
+      "question": "Watch an “Action” anime that started airing in any Spring season",
+      "description": "Watch an anilink('“Action”', 'genres=Action') anime that started airing in any Spring season"
+    },
+    {
+      "id": "44",
+      "question": "Watch an “Action” anime that started airing in any Summer season",
+      "description": "Watch an anilink('“Action”', 'genres=Action') anime that started airing in any Summer season"
+    },
+    {
+      "id": "45",
+      "question": "Watch an “Action” anime that started airing in any Fall season",
+      "description": "Watch an anilink('“Action”', 'genres=Action') anime that started airing in any Fall season"
+    },
+    {
+      "id": "46",
+      "question": "Watch an “Action” anime that started airing in any Winter season",
+      "description": "Watch an anilink('“Action”', 'genres=Action') anime that started airing in any Winter season"
+    },
+    {
+      "id": "47",
+      "question": "Watch an “Action” anime with a title that begins with a letter between A–L",
+      "description": "Watch an anilink('“Action”', 'genres=Action') anime with a title that begins with a letter between A–L"
+    },
+    {
+      "id": "48",
+      "question": "Watch an “Action” anime with a title that begins with a letter between M–Z",
+      "description": "Watch an anilink('“Action”', 'genres=Action') anime with a title that begins with a letter between M–Z"
+    },
+    {
+      "id": "49",
+      "question": "Watch an “Action” anime with a title that begins with the second letter of your username",
+      "description": "Watch an anilink('“Action”', 'genres=Action') anime with a title that begins with the second letter of your username"
+    },
+    {
+      "id": "50",
+      "question": "Watch an “Action” anime with a non-alphanumeric character in the title",
+      "description": "Watch an anilink('“Action”', 'genres=Action') anime with a non-alphanumeric character in the title"
+    },
+    {
+      "id": "51",
+      "question": "Watch an “Action” anime with a main character that uses a gun or sword",
+      "description": "Watch an anilink('“Action”', 'genres=Action') anime with a main character that uses a gun or sword",
+      "additionalInformation": [
+        { "type": "Link", "field": "Character", "subtype": "Character" },
+        { "type": "Label", "field": "Weapon" }
+      ]
+    },
+    {
+      "id": "52",
+      "question": "Watch an “Action” anime with a primarily female main cast",
+      "description": "Watch an “Action” anime with a anilink('primarily female main cast', 'genres=Action&genres=Primarily%20Female%20Cast')"
+    },
+    {
+      "id": "53",
+      "question": "Watch an “Action” anime with a primarily male main cast",
+      "description": "Watch an “Action” anime with a anilink('primarily male main cast', 'genres=Action&genres=Primarily%20Male%20Cast')"
+    },
+    {
+      "id": "54",
+      "question": "Watch an “Action” anime with a main character that is a villain or anti-hero",
+      "description": "Watch an anilink('“Action”', 'genres=Action') anime with a main character that is a villain or anti-hero",
+      "additionalInformation": [
+        { "type": "Link", "field": "Character", "subtype": "Character" }
+      ]
+    },
+    {
+      "id": "55",
+      "question": "Watch an “Action” anime with a main character that has super powers or magical abilities",
+      "description": "Watch an anilink('“Action”', 'genres=Action') anime with a main character that has super powers or magical abilities",
+      "additionalInformation": [
+        { "type": "Link", "field": "Character", "subtype": "Character" }
+      ]
+    },
+    {
+      "id": "56",
+      "question": "Watch an “Action” anime that takes place in a fantasy setting",
+      "description": "Watch an anilink('“Action”', 'genres=Action') anime that takes place in a fantasy setting",
+      "additionalInformation": [{ "type": "Label", "field": "Fantasy setting" }]
+    },
+    {
+      "id": "57",
+      "question": "Watch an “Action” anime with a main character that has blue or green eyes",
+      "description": "Watch an anilink('“Action”', 'genres=Action') anime with a main character that has blue or green eyes",
+      "additionalInformation": [
+        { "type": "Link", "field": "Character", "subtype": "Character" },
+        { "type": "Label", "field": "Eye colour" }
+      ]
+    },
+    {
+      "id": "58",
+      "question": "Watch an “Action” anime from another participant’s challenge or an “Action” anime recommended by a user on the AWC Discord",
+      "description": "Watch an “Action” anime from another participant’s challenge or an “Action” anime recommended by a user on the AWC Discord",
+      "additionalInformation": [
+        { "type": "Link", "field": "Screenshot/Challenger" }
+      ]
+    },
+    {
+      "id": "59",
+      "question": "Watch an “Action” anime you have not used for any other AWC Challenge",
+      "description": "Watch an anilink('“Action”', 'genres=Action') anime you have not used for any other AWC Challenge"
+    },
+    {
+      "id": "60",
+      "question": "Watch an “Action” anime that was recently reviewed on AniList",
+      "description": "Watch an “Action” anime that was recently reviewed on AniList",
+      "additionalInformation": [{ "type": "Link", "field": "Screenshot" }]
+    },
+    {
+      "id": "B1",
+      "question": "Watch an “Action” anime that started airing before 1990",
+      "description": "Watch an “Action” anime that started airing anilink('before 1990', 'genres=Action&year%20range=1930&year%20range=1990')",
+      "type": "bonus"
+    },
+    {
+      "id": "B2",
+      "question": "Watch an award-winning “Action” anime",
+      "description": "Watch an award-winning “Action” anime",
+      "type": "bonus",
+      "additionalInformation": [
+        { "type": "Label", "field": "Award" },
+        { "type": "Link", "field": "Source" }
+      ]
+    },
+    {
+      "id": "B3",
+      "question": "Watch an “Action” anime listed in the Top 250 Most Popular anime according to AnimeNewsNetwork",
+      "description": "Watch an “Action” anime listed in the Top 250 Most Popular anime genlink('according to AnimeNewsNetwork', 'https://www.animenewsnetwork.com/encyclopedia/ratings-anime.php?top50=popular&n=250')",
+      "type": "bonus"
+    },
+    {
+      "id": "B4",
+      "question": "Watch an “Action” anime that also has your least favourite genre (based on Mean Score)",
+      "description": "Watch an anilink('“Action”', 'genres=Action') anime that also has your least favourite genre (based on Mean Score)",
+      "type": "bonus",
+      "additionalInformation": [{ "type": "Link", "field": "Screenshot" }]
+    }
+  ]
+}
