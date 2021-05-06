@@ -2,6 +2,7 @@
   "name": "Action Genre Challenge",
   "link": "https://anilist.co/forum/thread/5288",
   "type": "genre",
+  "previouslyCompleted": true,
   "defaultRequired": false,
   "autoOccult": true,
   "modes": [

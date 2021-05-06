@@ -2,6 +2,7 @@
   "name": "Slice of Life Genre Challenge",
   "link": "https://anilist.co/forum/thread/5293",
   "type": "genre",
+  "previouslyCompleted": true,
   "defaultRequired": false,
   "autoOccult": true,
   "modes": [
