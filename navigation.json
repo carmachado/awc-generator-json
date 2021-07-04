@@ -2,45 +2,106 @@
   {
     "name": "Limited",
     "childrens": [
-      { "name": "Staff Pick 2020", "file": "limited/staff-picks-2020" },
-      { "name": "Spring 2021", "file": "limited/spring-2021" },
-      { "name": "July 2021", "file": "limited/july-2021" }
+      {
+        "name": "Staff Pick 2020",
+        "file": "limited/staff-picks-2020"
+      },
+      {
+        "name": "Spring 2021",
+        "file": "limited/spring-2021"
+      },
+      {
+        "name": "July 2021",
+        "file": "limited/july-2021"
+      },
+      {
+        "name": "Summer 2021",
+        "file": "limited/summer-2021"
+      }
     ]
   },
   {
     "name": "Tier",
     "childrens": [
-      { "name": "Beginner's", "file": "tier/beginners" },
-      { "name": "Intermediate", "file": "tier/intermediate" },
-      { "name": "Advanced", "file": "tier/advanced" }
+      {
+        "name": "Beginner's",
+        "file": "tier/beginners"
+      },
+      {
+        "name": "Intermediate",
+        "file": "tier/intermediate"
+      },
+      {
+        "name": "Advanced",
+        "file": "tier/advanced"
+      }
     ]
   },
   {
     "name": "Franchises",
     "childrens": [
-      { "name": "Monogatari Series", "file": "franchises/monogatari" },
-      { "name": "JoJo's Bizarre Adventure", "file": "franchises/jojo" },
-      { "name": "Initial D", "file": "franchises/initialD" },
-      { "name": "Higurashi", "file": "franchises/higurashi" },
-      { "name": "Gintama", "file": "franchises/gintama" },
-      { "name": "Love Live", "file": "franchises/love-live" }
+      {
+        "name": "Monogatari Series",
+        "file": "franchises/monogatari"
+      },
+      {
+        "name": "JoJo's Bizarre Adventure",
+        "file": "franchises/jojo"
+      },
+      {
+        "name": "Initial D",
+        "file": "franchises/initialD"
+      },
+      {
+        "name": "Higurashi",
+        "file": "franchises/higurashi"
+      },
+      {
+        "name": "Gintama",
+        "file": "franchises/gintama"
+      },
+      {
+        "name": "Love Live",
+        "file": "franchises/love-live"
+      }
     ]
   },
   {
     "name": "Legends",
     "childrens": [
-      { "name": "Satoshi Kon", "file": "legends/satoshi-kon" },
-      { "name": "Makoto Shinkai", "file": "legends/makoto-shinkai" },
-      { "name": "Isao Takahata", "file": "legends/isao-takahata" },
-      { "name": "Kunihiko Ikuhara", "file": "legends/kunihiko-ikuhara" }
+      {
+        "name": "Satoshi Kon",
+        "file": "legends/satoshi-kon"
+      },
+      {
+        "name": "Makoto Shinkai",
+        "file": "legends/makoto-shinkai"
+      },
+      {
+        "name": "Isao Takahata",
+        "file": "legends/isao-takahata"
+      },
+      {
+        "name": "Kunihiko Ikuhara",
+        "file": "legends/kunihiko-ikuhara"
+      }
     ]
   },
-  { "name": "Classic", "file": "classic" },
+  {
+    "name": "Classic",
+    "file": "classic"
+  },
   {
     "name": "Genre",
     "childrens": [
-      { "name": "Action", "file": "genre/action" },
-      { "name": "Slice of Life", "file": "genre/slice-of-life" }
+      {
+        "name": "Action",
+        "file": "genre/action"
+      },
+      {
+        "name": "Slice of Life",
+        "file": "genre/slice-of-life"
+      }
     ]
   }
 ]

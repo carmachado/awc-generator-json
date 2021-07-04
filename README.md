@@ -95,6 +95,8 @@ Disclaimer: This app is completely unrelated with AWC or Anilist.
 
 **type**: bonus = can replace a requirement with that
 
+**customFormat**: format for output: `{id}) [{emoji}] __{question}__\n{anime}\nStart: {start} Finish: {finish}`
+
 **<h1>Addition Information</h1>**
 Addition Information give fields like screenshot that need user input
 
