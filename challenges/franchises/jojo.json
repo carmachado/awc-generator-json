@@ -4,37 +4,37 @@
   "defaultRequired": true,
   "requirements": [
     {
-      "id": 1,
+      "id": "01",
       "question": "JoJo no Kimyou na Bouken (2000)",
       "preset": "https://anilist.co/anime/665"
     },
     {
-      "id": 2,
+      "id": "02",
       "question": "JoJo no Kimyou na Bouken",
       "preset": "https://anilist.co/anime/666"
     },
     {
-      "id": 3,
+      "id": "03",
       "question": "JoJo no Kimyou na Bouken",
       "preset": "https://anilist.co/anime/14719"
     },
     {
-      "id": 4,
+      "id": "04",
       "question": "JoJo no Kimyou na Bouken: Stardust Crusaders",
       "preset": "https://anilist.co/anime/20474"
     },
     {
-      "id": 5,
+      "id": "05",
       "question": "JoJo no Kimyou na Bouken: Stardust Crusaders - Egypt-hen",
       "preset": "https://anilist.co/anime/20799"
     },
     {
-      "id": 6,
+      "id": "06",
       "question": "JoJo no Kimyou na Bouken: Diamond wa Kudakenai",
       "preset": "https://anilist.co/anime/21450"
     },
     {
-      "id": 7,
+      "id": "07",
       "question": "JoJo no Kimyou na Bouken: Ougon no Kaze",
       "preset": "https://anilist.co/anime/102883"
     }

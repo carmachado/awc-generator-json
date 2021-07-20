@@ -3,71 +3,50 @@
   "link": "https://anilist.co/forum/thread/5027/",
   "defaultRequired": true,
   "requirements": [
+    { "id": "01", "question": "Watch an anime that began airing before 2000" },
     {
-      "id": 1,
-      "question": "Watch an anime that began airing before 2000"
-    },
-    {
-      "id": 2,
+      "id": "02",
       "question": "Watch an anime that began airing between 2000 and 2005"
     },
     {
-      "id": 3,
+      "id": "03",
       "question": "Watch an anime that began airing between 2006 and 2010"
     },
     {
-      "id": 4,
+      "id": "04",
       "question": "Watch an anime which began airing between 2011 and 2018"
     },
+    { "id": "05", "question": "Watch an anime with 24 or more episodes" },
     {
-      "id": 5,
-      "question": "Watch an anime with 24 or more episodes"
-    },
-    {
-      "id": 6,
+      "id": "06",
       "question": "Watch an anime with a title beginning with a letter A-L"
     },
     {
-      "id": 7,
+      "id": "07",
       "question": "Watch an anime with a title beginning with a letter M-Z"
     },
+    { "id": "08", "question": "Watch an anime with a color in the title" },
+    { "id": "09", "question": "Watch an anime with a three word title" },
+    { "id": "10", "question": "Watch an anime by animation studio Madhouse" },
+    { "id": "11", "question": "Watch an anime by animation studio Bones" },
+    { "id": "12", "question": "Watch an anime by animation studio Shaft" },
     {
-      "id": 8,
-      "question": "Watch an anime with a color in the title"
-    },
-    {
-      "id": 9,
-      "question": "Watch an anime with a three word title"
-    },
-    {
-      "id": 10,
-      "question": "Watch an anime by animation studio Madhouse"
-    },
-    {
-      "id": 11,
-      "question": "Watch an anime by animation studio Bones"
-    },
-    {
-      "id": 12,
-      "question": "Watch an anime by animation studio Shaft"
-    },
-    {
-      "id": 13,
+      "id": "13",
       "question": "Watch an anime by animation studio Kyoto Animation"
     },
     {
-      "id": 14,
+      "id": "14",
       "question": "Watch an anime from an animation studio not listed above"
     },
     {
-      "id": 15,
+      "id": "15",
       "question": "Watch an anime with a main character with multicoloured hair",
       "additionalInformation": [
         { "type": "Link", "field": "Character", "subtype": "Character" }
       ]
     },
     {
-      "id": 16,
+      "id": "16",
       "question": "Watch an anime where the main character wears a uniform",
       "additionalInformation": [
         { "type": "Link", "field": "Character", "subtype": "Character" },
@@ -75,7 +54,7 @@
       ]
     },
     {
-      "id": 17,
+      "id": "17",
       "question": "Watch an anime where the main character is not Japanese",
       "additionalInformation": [
         { "type": "Link", "field": "Character", "subtype": "Character" },
@@ -83,7 +62,7 @@
       ]
     },
     {
-      "id": 18,
+      "id": "18",
       "question": "Watch an anime where the main character is not human",
       "additionalInformation": [
         { "type": "Link", "field": "Character", "subtype": "Character" },
@@ -91,94 +70,73 @@
       ]
     },
     {
-      "id": 19,
+      "id": "19",
       "question": "Watch an anime with the genre \"Drama\" AND / OR \"Romance\""
     },
     {
-      "id": 20,
+      "id": "20",
       "question": "Watch an anime with the genre \"Action\" AND / OR \"Psychological\""
     },
     {
-      "id": 21,
+      "id": "21",
       "question": "Watch an anime with the genre \"Slice of Life\" AND / OR \"Sports\""
     },
     {
-      "id": 22,
+      "id": "22",
       "question": "Watch an anime with the genre \"Mecha\" AND / OR \"Ecchi\""
     },
     {
-      "id": 23,
+      "id": "23",
       "question": "Watch an anime with the tag: \"Yakuza\" AND / OR \"Mafia\" AND / OR \"Gangs\""
     },
     {
-      "id": 24,
+      "id": "24",
       "question": "Watch an anime with the tag \"Parody\" AND / OR \"Satire\""
     },
     {
-      "id": 25,
+      "id": "25",
       "question": "Watch an anime with the tag \"Josei\" OR \"Seinen\""
     },
     {
-      "id": 26,
+      "id": "26",
       "question": "Watch an anime with the tag \"Shoujo\" OR \"Shounen\""
     },
+    { "id": "27", "question": "Watch an anime with the format “Special”" },
+    { "id": "28", "question": "Watch an anime with the format “OVA” or “ONA”" },
+    { "id": "29", "question": "Watch an anime with the format “Movie”" },
     {
-      "id": 27,
-      "question": "Watch an anime with the format “Special”"
-    },
-    {
-      "id": 28,
-      "question": "Watch an anime with the format “OVA” or “ONA”"
-    },
-    {
-      "id": 29,
-      "question": "Watch an anime with the format “Movie”"
-    },
-    {
-      "id": 30,
+      "id": "30",
       "question": "Watch an anime with the format “TV Short” or “Music”"
     },
     {
-      "id": 31,
+      "id": "31",
       "question": "Watch an anime with a mean score between 60% and 69%"
     },
     {
-      "id": 32,
+      "id": "32",
       "question": "Watch an anime with a mean score between 70% and 79%"
     },
     {
-      "id": 33,
+      "id": "33",
       "question": "Watch an anime with a mean score of 80% or above"
     },
+    { "id": "34", "question": "Watch an anime with the source “Manga”" },
     {
-      "id": 34,
-      "question": "Watch an anime with the source “Manga”"
-    },
-    {
-      "id": 35,
+      "id": "35",
       "question": "Watch an anime with the source “Visual Novel” or “Video Game”"
     },
+    { "id": "36", "question": "Watch an anime with the source “Light Novel”" },
+    { "id": "37", "question": "Watch an anime with the source “Original”" },
+    { "id": "38", "question": "Watch an anime from your Planning list" },
     {
-      "id": 36,
-      "question": "Watch an anime with the source “Light Novel”"
-    },
-    {
-      "id": 37,
-      "question": "Watch an anime with the source “Original”"
-    },
-    {
-      "id": 38,
-      "question": "Watch an anime from your Planning list"
-    },
-    {
-      "id": 39,
+      "id": "39",
       "question": "Watch an anime from an AniList Mod's favorites list",
       "additionalInformation": [
         { "type": "Label", "field": "Anilist Mod", "subtype": "UserFavorites" }
       ]
     },
     {
-      "id": 40,
+      "id": "40",
       "question": "Watch an anime based on another user's profile. Use the anime in their profile picture or banner. If you don't know what anime it's from, ask them",
       "additionalInformation": [
         { "type": "Label", "field": "User", "subtype": "User" },

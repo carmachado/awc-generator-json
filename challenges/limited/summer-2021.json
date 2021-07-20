@@ -5,67 +5,39 @@
   "autoOccult": true,
   "requirements": [
     {
-      "id": 1,
+      "id": "01",
       "question": "1st Anime",
-      "additionalInformation": [
-        {
-          "type": "Episode"
-        }
-      ]
+      "additionalInformation": [{ "type": "Episode" }]
     },
     {
-      "id": 2,
+      "id": "02",
       "question": "2nd Anime",
-      "additionalInformation": [
-        {
-          "type": "Episode"
-        }
-      ]
+      "additionalInformation": [{ "type": "Episode" }]
     },
     {
-      "id": 3,
+      "id": "03",
       "question": "3rd Anime",
-      "additionalInformation": [
-        {
-          "type": "Episode"
-        }
-      ]
+      "additionalInformation": [{ "type": "Episode" }]
     },
     {
-      "id": 4,
+      "id": "04",
       "question": "4th Anime",
-      "additionalInformation": [
-        {
-          "type": "Episode"
-        }
-      ]
+      "additionalInformation": [{ "type": "Episode" }]
     },
     {
-      "id": 5,
+      "id": "05",
       "question": "5th Anime",
-      "additionalInformation": [
-        {
-          "type": "Episode"
-        }
-      ]
+      "additionalInformation": [{ "type": "Episode" }]
     },
     {
-      "id": 6,
+      "id": "06",
       "question": "6th Anime",
-      "additionalInformation": [
-        {
-          "type": "Episode"
-        }
-      ]
+      "additionalInformation": [{ "type": "Episode" }]
     },
     {
-      "id": 7,
+      "id": "07",
       "question": "7th Anime",
-      "additionalInformation": [
-        {
-          "type": "Episode"
-        }
-      ]
+      "additionalInformation": [{ "type": "Episode" }]
     },
     {
       "id": "badge_vote",

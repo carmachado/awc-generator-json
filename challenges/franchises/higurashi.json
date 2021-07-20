@@ -4,42 +4,42 @@
   "defaultRequired": true,
   "requirements": [
     {
-      "id": 1,
+      "id": "01",
       "question": "Higurashi no Naku Koro ni",
       "preset": "https://anilist.co/anime/934"
     },
     {
-      "id": 2,
+      "id": "02",
       "question": "Higurashi no Naku Koro ni: Nekogoroshi-hen",
       "preset": "https://anilist.co/anime/2899"
     },
     {
-      "id": 3,
+      "id": "03",
       "question": "Higurashi no Naku Koro ni Kai",
       "preset": "https://anilist.co/anime/1889"
     },
     {
-      "id": 4,
+      "id": "04",
       "question": "Higurashi no Naku Koro ni Kai Specials",
       "preset": "https://anilist.co/anime/6064"
     },
     {
-      "id": 5,
+      "id": "05",
       "question": "Higurashi no Naku Koro ni Rei",
       "preset": "https://anilist.co/anime/3652"
     },
     {
-      "id": 6,
+      "id": "06",
       "question": "Higurashi no Naku Koro ni Kira",
       "preset": "https://anilist.co/anime/10491"
     },
     {
-      "id": 7,
+      "id": "07",
       "question": "Higurashi no Naku Koro ni Kaku: Outbreak",
       "preset": "https://anilist.co/anime/16700"
     },
     {
-      "id": 8,
+      "id": "08",
       "question": "Higurashi no Naku Koro ni Gou",
       "preset": "https://anilist.co/anime/114446"
     }

@@ -5,86 +5,69 @@
   "autoOccult": true,
   "requirements": [
     {
-        "id": "01",
-        "question": "Take it Easy: Watch an anime with the format “TV Short” that started airing in any Summer season",
-        "description": "Take it Easy: Watch an anime with the format anilink('“TV Short”', 'format=TV_SHORT') that started airing in any Summer season",
-        "required": true
+      "id": "01",
+      "question": "Take it Easy: Watch an anime with the format “TV Short” that started airing in any Summer season",
+      "description": "Take it Easy: Watch an anime with the format anilink('“TV Short”', 'format=TV_SHORT') that started airing in any Summer season",
+      "required": true
     },
     {
-        "id": "02",
-        "question": "Watch an anime in which the characters visit the beach",
-        "description": "Watch an anime in which the characters visit the AWCAnilist('beach', 'Beaches')"
+      "id": "02",
+      "question": "Watch an anime in which the characters visit the beach",
+      "description": "Watch an anime in which the characters visit the AWCAnilist('beach', 'Beaches')"
     },
     {
-        "id": "03",
-        "question": "Sunbathing: Watch an “Ecchi” or “Hentai” anime with the tag “Tanned Skin” or “Nudity”",
-        "description": "Sunbathing: Watch an anilink('“Ecchi”', 'genres=Ecchi&genres=Nudity') or anilink('“Hentai”', 'genres=Hentai&genres=Nudity') anime with the tag “Tanned Skin” or “Nudity”"
+      "id": "03",
+      "question": "Sunbathing: Watch an “Ecchi” or “Hentai” anime with the tag “Tanned Skin” or “Nudity”",
+      "description": "Sunbathing: Watch an anilink('“Ecchi”', 'genres=Ecchi&genres=Nudity') or anilink('“Hentai”', 'genres=Hentai&genres=Nudity') anime with the tag “Tanned Skin” or “Nudity”"
     },
     {
-        "id": "04",
-        "question": "Stay Hydrated: Watch an anime featuring a sport that takes place in water",
-        "description": "Stay Hydrated: Watch an anime featuring a sport that takes place in water",
-        "additionalInformation": [
-            {
-                "type": "Link",
-                "field": "Screenshot"
-            }
-        ]
+      "id": "04",
+      "question": "Stay Hydrated: Watch an anime featuring a sport that takes place in water",
+      "description": "Stay Hydrated: Watch an anime featuring a sport that takes place in water",
+      "additionalInformation": [{ "type": "Link", "field": "Screenshot" }]
     },
     {
-        "id": "05",
-        "question": "Ride the Wave: Watch an anime that started airing in the year you watched the most titles",
-        "description": "Ride the Wave: Watch an anime that started airing in the year you watched the most titles",
-        "additionalInformation": [
-            {
-                "type": "Link",
-                "field": "Screenshot"
-            }
-        ]
+      "id": "05",
+      "question": "Ride the Wave: Watch an anime that started airing in the year you watched the most titles",
+      "description": "Ride the Wave: Watch an anime that started airing in the year you watched the most titles",
+      "additionalInformation": [{ "type": "Link", "field": "Screenshot" }]
     },
     {
-        "id": "06",
-        "question": "Fruit Cocktail: Watch an anime that has a fruit in the title or any anime with the tag “Bar”",
-        "description": "Fruit Cocktail: Watch an anime that has a fruit in the title or any anime with the tag anilink('“Bar”', 'genres=Bar')"
+      "id": "06",
+      "question": "Fruit Cocktail: Watch an anime that has a fruit in the title or any anime with the tag “Bar”",
+      "description": "Fruit Cocktail: Watch an anime that has a fruit in the title or any anime with the tag anilink('“Bar”', 'genres=Bar')"
     },
     {
-        "id": "07",
-        "question": "High Seas: Watch an anime with the tag “Pirates”, “Ships” or “Mermaid”",
-        "description": "High Seas: Watch an anime with the tag anilink('“Pirates”', 'genres=Pirates'), anilink('“Ships”', 'genres=Ships') or anilink('“Mermaid”', 'genres=Mermaid')"
+      "id": "07",
+      "question": "High Seas: Watch an anime with the tag “Pirates”, “Ships” or “Mermaid”",
+      "description": "High Seas: Watch an anime with the tag anilink('“Pirates”', 'genres=Pirates'), anilink('“Ships”', 'genres=Ships') or anilink('“Mermaid”', 'genres=Mermaid')"
     },
     {
-        "id": "08",
-        "question": "Watch an anime featuring a character that wears sunglasses or a swimsuit",
-        "description": "Watch an anime featuring a character that wears sunglasses or a swimsuit",
-        "additionalInformation": [
-            {
-                "type": "Link",
-                "field": "Character",
-                "subtype": "Character"
-            },
-            {
-                "type": "Link",
-                "field": "Screenshot"
-            }
-        ]
+      "id": "08",
+      "question": "Watch an anime featuring a character that wears sunglasses or a swimsuit",
+      "description": "Watch an anime featuring a character that wears sunglasses or a swimsuit",
+      "additionalInformation": [
+        { "type": "Link", "field": "Character", "subtype": "Character" },
+        { "type": "Link", "field": "Screenshot" }
+      ]
     },
     {
-        "id": "09",
-        "question": "Hottest Years on Record: Watch an anime that started airing in 2016 or 2020",
-        "description": "Hottest Years on Record: Watch an anime that started airing in anilink('2016', 'year=2016') or anilink('2020', 'year=2020')"
+      "id": "09",
+      "question": "Hottest Years on Record: Watch an anime that started airing in 2016 or 2020",
+      "description": "Hottest Years on Record: Watch an anime that started airing in anilink('2016', 'year=2016') or anilink('2020', 'year=2020')"
     },
     {
-        "id": "10",
-        "question": "Buried Treasure: Watch an anime found under the X of an AWC Staff member",
-        "description": "Buried Treasure: Watch an anime found under the ❌ of an genlink('AWC Staff', 'https://anilist.co/user/AWC/social')",
-        "additionalInformation": [
-          {
-              "type": "Label",
-              "field": "Username",
-              "subtype": "User",
-              "occultField": true
-          }
-        ]
+      "id": "10",
+      "question": "Buried Treasure: Watch an anime found under the X of an AWC Staff member",
+      "description": "Buried Treasure: Watch an anime found under the ❌ of an genlink('AWC Staff', 'https://anilist.co/user/AWC/social')",
+      "additionalInformation": [
+        {
+          "type": "Label",
+          "field": "Username",
+          "subtype": "User",
+          "occultField": true
+        }
+      ]
     }
-]
+  ]
 }

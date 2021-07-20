@@ -102,45 +102,25 @@
       "id": "19",
       "question": "Watch a \"Slice of Life\" anime from different studios: 1st studio",
       "description": "Watch a anilink('\"Slice of Life\"', 'genres=Slice%20of%20Life') anime from different studios: 1st studio",
-      "additionalInformation": [
-        {
-          "type": "Label",
-          "field": "Studio"
-        }
-      ]
+      "additionalInformation": [{ "type": "Label", "field": "Studio" }]
     },
     {
       "id": "20",
       "question": "Watch a \"Slice of Life\" anime from different studios: 2nd studio",
       "description": "Watch a anilink('\"Slice of Life\"', 'genres=Slice%20of%20Life') anime from different studios: 2nd studio",
-      "additionalInformation": [
-        {
-          "type": "Label",
-          "field": "Studio"
-        }
-      ]
+      "additionalInformation": [{ "type": "Label", "field": "Studio" }]
     },
     {
       "id": "21",
       "question": "Watch a \"Slice of Life\" anime from different studios: 3rd studio",
       "description": "Watch a anilink('\"Slice of Life\"', 'genres=Slice%20of%20Life') anime from different studios: 3rd studio",
-      "additionalInformation": [
-        {
-          "type": "Label",
-          "field": "Studio"
-        }
-      ]
+      "additionalInformation": [{ "type": "Label", "field": "Studio" }]
     },
     {
       "id": "22",
       "question": "Watch a \"Slice of Life\" anime from different studios: 4th studio",
       "description": "Watch a anilink('\"Slice of Life\"', 'genres=Slice%20of%20Life') anime from different studios: 4th studio",
-      "additionalInformation": [
-        {
-          "type": "Label",
-          "field": "Studio"
-        }
-      ]
+      "additionalInformation": [{ "type": "Label", "field": "Studio" }]
     },
     {
       "id": "23",
@@ -265,10 +245,7 @@
       "id": "44",
       "question": "Watch a \"Slice of Life\" anime from another participant’s challenge or a \"Slice of Life\" anime recommended by a user on the AWC Discord",
       "additionalInformation": [
-        {
-          "type": "Link",
-          "field": "Screenshot/Challenger"
-        }
+        { "type": "Link", "field": "Screenshot/Challenger" }
       ]
     },
     {
@@ -287,14 +264,8 @@
       "question": "Watch an award-winning “Slice of Life” anime",
       "description": "Watch an award-winning anilink('“Slice of Life”', 'genres=Slice%20of%20Life') anime",
       "additionalInformation": [
-        {
-          "type": "Label",
-          "field": "Award"
-        },
-        {
-          "type": "Link",
-          "field": "Source"
-        }
+        { "type": "Label", "field": "Award" },
+        { "type": "Link", "field": "Source" }
       ],
       "type": "bonus"
     },
@@ -308,12 +279,7 @@
       "id": "B4",
       "question": "Watch a \"Slice of Life\" anime that also has your least favourite genre (based on Mean Score)",
       "description": "Watch a anilink('\"Slice of Life\"', 'genres=Slice%20of%20Life') anime that also has your least favourite genre (based on Mean Score)",
-      "additionalInformation": [
-        {
-          "type": "Link",
-          "field": "Screenshot"
-        }
-      ],
+      "additionalInformation": [{ "type": "Link", "field": "Screenshot" }],
       "type": "bonus"
     }
   ]

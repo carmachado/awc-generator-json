@@ -5,39 +5,39 @@
   "autoOccult": true,
   "requirements": [
     {
-      "id": 1,
+      "id": "01",
       "question": "DDoS: Watch an anime with the format “TV” and a popularity of 40,404 or more",
       "required": true
     },
     {
-      "id": 2,
+      "id": "02",
       "question": "Zero-Day Exploit: Watch an anime that started releasing on a date ending in 0 (YYYY-MM-DD format)"
     },
     {
-      "id": 3,
+      "id": "03",
       "question": "Permissions Override: Watch an anime with the format “Music” or the genre “Hentai”"
     },
     {
-      "id": 4,
+      "id": "04",
       "question": "Security Breach: Watch an anime with any of the tags: “Software Development”, “Artificial Intelligence”, “Espionage” or “Crime”"
     },
     {
-      "id": 5,
+      "id": "05",
       "question": "Invalid Character: Watch an anime with a character that does not appear on the standard QWERTY keyboard in its English or Romaji title",
       "additionalInformation": [{ "type": "Label", "field": "Character" }]
     },
     {
-      "id": 6,
+      "id": "06",
       "question": "Watch an anime in which a character uses a laptop or desktop computer",
       "additionalInformation": [{ "type": "Link", "field": "Screenshot" }]
     },
     {
-      "id": 7,
+      "id": "07",
       "question": "Malicious Code: Watch an anime that has a review scoring it 60% or lower",
       "additionalInformation": [{ "type": "Link", "field": "Review" }]
     },
     {
-      "id": 8,
+      "id": "08",
       "question": "Software Update: Watch an anime that you or another gambler received from AWCbotchan in the Gambler’s Challenge 2.0",
       "additionalInformation": [
         {
@@ -49,12 +49,12 @@
       ]
     },
     {
-      "id": 9,
+      "id": "09",
       "question": "HACKERMAN: Watch an anime with a male main character who wears glasses",
       "additionalInformation": [
         { "type": "Link", "field": "Character", "subtype": "Character" }
       ]
     },
-    { "id": 10, "question": "Watch an anime with the format “ONA”" }
+    { "id": "10", "question": "Watch an anime with the format “ONA”" }
   ]
 }

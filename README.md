@@ -18,10 +18,10 @@ Disclaimer: This app is completely unrelated with AWC or Anilist.
     "requirements": [
       {
         "splitter?": "### __Winter__",
-        "id": 1,
+        "id": "01",
         "question": "Watch an anime...",
         "required?": true or false,
-        "preset?": "https://anilist.co/anime/759/", 
+        "preset?": "https://anilist.co/anime/759/",
         "modes": [
           { "value": 0, "label": "Easy", "quantity": 20 },
           { "value": 1, "label": "Normal", "quantity": 20 },
@@ -110,7 +110,6 @@ Addition Information give fields like screenshot that need user input
 
 **runAfter**: run a text after output
 
-
 <h2>Types</h2>
 Define waht will be showed on output
 
@@ -134,24 +133,23 @@ Give a personalized output at additional information for Label type
 <h2>Link Subtypes</h2>
 Give a personalized output at additional information for Link type
 
-**Label**: Add a label to be added together. Like: 
+**Label**: Add a label to be added together. Like:
 `Test: [Field 1](Field 2)`
 
-**Staff**: Search Staff name and show that. Like: 
+**Staff**: Search Staff name and show that. Like:
 `Test: [Oda Eiichirou](https://anilist.co/staff/96881/Oda-Eiichirou)`
 
-**Character**: Search Character name and show that. Like: 
+**Character**: Search Character name and show that. Like:
 `Test: [Monkey D. Luffy](https://anilist.co/character/40/Monkey-D-Luffy)`
 
-**Anime**: Search anime name and show that (Respect user setting). Like: 
-`Test: [One Piece](https://anilist.co/anime/21/One-Piece/)` 
+**Anime**: Search anime name and show that (Respect user setting). Like:
+`Test: [One Piece](https://anilist.co/anime/21/One-Piece/)`
 
-**CommentUser**: Search user name and show the comment link. Like: 
-`Test: [Tepgam](https://anilist.co/forum/thread/4446/comment/102872)` 
+**CommentUser**: Search user name and show the comment link. Like:
+`Test: [Tepgam](https://anilist.co/forum/thread/4446/comment/102872)`
 
-**ChallengeUser**: Search user name and show the comment link. Like: 
-`Challenge: [Tepgam’s Challenge](https://anilist.co/forum/thread/4446/comment/102872)` 
+**ChallengeUser**: Search user name and show the comment link. Like:
+`Challenge: [Tepgam’s Challenge](https://anilist.co/forum/thread/4446/comment/102872)`
 
-**CommentTitle**: Search thread name and show the comment link. Like: 
-`Challenge: [Anime Watching Challenge: Challenge Submissions](https://anilist.co/forum/thread/4446/comment/102872)` 
-
+**CommentTitle**: Search thread name and show the comment link. Like:
+`Challenge: [Anime Watching Challenge: Challenge Submissions](https://anilist.co/forum/thread/4446/comment/102872)`

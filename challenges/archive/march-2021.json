@@ -5,17 +5,20 @@
   "autoOccult": true,
   "requirements": [
     {
-      "id": 1,
+      "id": "01",
       "question": "Watch an anime with the format “TV” and the tag “Historical” or “Mythology”",
       "required": true
     },
-    { "id": 2, "question": "Watch one of the Japanese Animated Film Classics" },
     {
-      "id": 3,
+      "id": "02",
+      "question": "Watch one of the Japanese Animated Film Classics"
+    },
+    {
+      "id": "03",
       "question": "Ancient Traditions: Watch an anime from the “Matsuri”, “Shrines & Torii” or “Shishi-odoshi” community lists"
     },
     {
-      "id": 4,
+      "id": "04",
       "question": "Watch an anime that features a historical figure as a character",
       "additionalInformation": [
         { "type": "Link", "field": "Character", "subtype": "Character" },
@@ -23,29 +26,29 @@
       ]
     },
     {
-      "id": 5,
+      "id": "05",
       "question": "Lost Era: Watch an anime that began airing in a year that you have watched 5 or less titles from",
       "additionalInformation": [{ "type": "Link", "field": "Screenshot" }]
     },
     {
-      "id": 6,
+      "id": "06",
       "question": "Making History: Watch an anime that aired in the Reiwa Period"
     },
     {
-      "id": 7,
+      "id": "07",
       "question": "Watch an anime that fulfils a requirement from the Archaeologist’s Challenge",
       "additionalInformation": [{ "type": "Label", "field": "Requirement" }]
     },
     {
-      "id": 8,
+      "id": "08",
       "question": "2680 Years since the Founding of Japan: Watch an anime that has an AniList ID of 2680 or less"
     },
     {
-      "id": 9,
+      "id": "09",
       "question": "Sengoku Era: Watch an anime with the tag “Samurai”, “Ninja” or “War”"
     },
     {
-      "id": 10,
+      "id": "10",
       "question": "The Shogun’s Decree: Watch an anime used by another challenger on page 1 of this challenge thread",
       "additionalInformation": [
         {

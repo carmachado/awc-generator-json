@@ -4,11 +4,11 @@
   "defaultRequired": true,
   "requirements": [
     {
-      "id": 1,
+      "id": "01",
       "question": "Watch an anime with the format “TV” that started airing in any Winter season"
     },
     {
-      "id": 2,
+      "id": "02",
       "question": "Wear Two Layers: Watch an anime that started airing in the same year and season as any other anime you used for this challenge",
       "additionalInformation": [
         { "type": "YearSeason" },
@@ -16,15 +16,15 @@
       ]
     },
     {
-      "id": 3,
+      "id": "03",
       "question": "Watch an anime with any of the tags “Outdoor”, “Rural”, “Environmental” or “Survival”"
     },
     {
-      "id": 4,
+      "id": "04",
       "question": "Winter Frolicking: Watch an anime from either the Winter Sports or Penguins community lists"
     },
     {
-      "id": 5,
+      "id": "05",
       "question": "Frozen: Watch an anime that another participant has paused or dropped",
       "additionalInformation": [
         { "type": "Link", "field": "Participant’s Challenge Post" },
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": "06",
       "question": "Build a Snowman: Watch an anime that shares a tag, a genre and a staff member with three different anime you’re using for this challenge",
       "additionalInformation": [
         { "type": "Label", "field": "Requirement 1" },
@@ -44,20 +44,20 @@
       ]
     },
     {
-      "id": 7,
+      "id": "07",
       "question": "Home Alone: Watch an anime with only one character in the cover art"
     },
     {
-      "id": 8,
+      "id": "08",
       "question": "Snow Day: Watch an anime with the same number of genres as days without an activity in the last full column (right side) of your Activity History on your profile",
       "additionalInformation": [{ "type": "Link", "field": "Screenshot" }]
     },
     {
-      "id": 9,
+      "id": "09",
       "question": "Ice Cold: Watch an anime with any of the tags “Tsundere”, “Kuudere” or “Yandere”"
     },
     {
-      "id": 10,
+      "id": "10",
       "question": "Late Present: Watch another participant’s ‘gift’",
       "additionalInformation": [
         { "type": "Link", "field": "Participant’s Challenge Post" }

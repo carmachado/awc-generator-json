@@ -4,128 +4,125 @@
   "defaultRequired": true,
   "requirements": [
     {
-      "id": 1,
+      "id": "01",
       "question": "Reldio’s Pick",
       "preset": "https://anilist.co/anime/3079/"
     },
     {
-      "id": 2,
+      "id": "02",
       "question": "SirDurpsalot’s Pick",
       "preset": "https://anilist.co/anime/21495/"
     },
     {
-      "id": 3,
+      "id": "03",
       "question": "HalfBlindShinobi’s Pick",
       "preset": "https://anilist.co/anime/110459/"
     },
     {
-      "id": 4,
+      "id": "04",
       "question": "StealthRobot’s Pick",
       "preset": "https://anilist.co/anime/5941/"
     },
     {
-      "id": 5,
+      "id": "05",
       "question": "akaDry’s Pick",
       "preset": "https://anilist.co/anime/66/"
     },
     {
-      "id": 6,
+      "id": "06",
       "question": "skirider7’s Pick",
       "preset": "https://anilist.co/anime/6802/"
     },
     {
-      "id": 7,
+      "id": "07",
       "question": "cybergami’s Pick",
       "preset": "https://anilist.co/anime/108463/"
     },
     {
-      "id": 8,
+      "id": "08",
       "question": "sailorassyla’s Pick",
       "preset": "https://anilist.co/anime/11751/"
     },
     {
-      "id": 9,
+      "id": "09",
       "question": "Kondor’s Pick",
       "preset": "https://anilist.co/anime/113970/"
     },
     {
-      "id": 10,
+      "id": "10",
       "question": "Moha’s Pick",
       "preset": "https://anilist.co/anime/8081/"
     },
     {
-      "id": 11,
+      "id": "11",
       "question": "Apicula’s Pick",
       "preset": "https://anilist.co/anime/239/"
     },
     {
-      "id": 12,
+      "id": "12",
       "question": "qeziz’s Pick",
       "preset": "https://anilist.co/anime/2251/"
     },
     {
-      "id": 13,
+      "id": "13",
       "question": "Klear’s Pick",
       "preset": "https://anilist.co/anime/1/"
     },
     {
-      "id": 14,
+      "id": "14",
       "question": "Madoka42’s Pick",
       "preset": "https://anilist.co/anime/99426/"
     },
     {
-      "id": 15,
+      "id": "15",
       "question": "Raycenerr’s Pick",
       "preset": "https://anilist.co/anime/6114/"
     },
     {
-      "id": 16,
+      "id": "16",
       "question": "Kanta’s Pick",
       "preset": "https://anilist.co/anime/17909/"
     },
     {
-      "id": 17,
+      "id": "17",
       "question": "Quiet’s Pick",
       "preset": "https://anilist.co/anime/114555/"
     },
     {
-      "id": 18,
+      "id": "18",
       "question": "InfiniteEternity’s Pick",
       "preset": "https://anilist.co/anime/6211/"
     },
     {
-      "id": 19,
+      "id": "19",
       "question": "annahoj’s Pick",
       "preset": "https://anilist.co/anime/115437/"
     },
     {
-      "id": 20,
+      "id": "20",
       "question": "Moelancholy’s Pick",
       "preset": "https://anilist.co/anime/21366/"
     },
     {
-      "id": 21,
+      "id": "21",
       "question": "Kongroo’s Pick",
       "preset": "https://anilist.co/anime/20812/"
     },
     {
-      "id": 22,
+      "id": "22",
       "question": "Kell’s Pick",
       "preset": "https://anilist.co/anime/112004/"
     },
     {
-      "id": 23,
+      "id": "23",
       "question": "MyNameIsZach’s Pick",
       "preset": "https://anilist.co/anime/106479/"
     },
     {
-      "id": 24,
+      "id": "24",
       "question": "Plusho’s Pick",
       "preset": "https://anilist.co/anime/759/"
     },
-    {
-      "id": 25,
-      "question": "AWC Community AOTY"
-    }
+    { "id": "25", "question": "AWC Community AOTY" }
   ]
 }

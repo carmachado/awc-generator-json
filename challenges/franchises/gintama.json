@@ -4,62 +4,62 @@
   "defaultRequired": true,
   "requirements": [
     {
-      "id": 1,
+      "id": "01",
       "question": "Gintama",
       "preset": "https://anilist.co/anime/918"
     },
     {
-      "id": 2,
+      "id": "02",
       "question": "Gintama'",
       "preset": "https://anilist.co/anime/9969"
     },
     {
-      "id": 3,
+      "id": "03",
       "question": "Gintama': Enchousen",
       "preset": "https://anilist.co/anime/15417"
     },
     {
-      "id": 4,
+      "id": "04",
       "question": "Gintama: Kanketsu-hen - Yorozuya yo Eien Nare",
       "preset": "https://anilist.co/anime/15335"
     },
     {
-      "id": 5,
+      "id": "05",
       "question": "Gintama°",
       "preset": "https://anilist.co/anime/20996"
     },
     {
-      "id": 6,
+      "id": "06",
       "question": "Gintamaº: Aizome Kaori-hen",
       "preset": "https://anilist.co/anime/21588"
     },
     {
-      "id": 7,
+      "id": "07",
       "question": "Gintama.",
       "preset": "https://anilist.co/anime/97889"
     },
     {
-      "id": 8,
+      "id": "08",
       "question": "Gintama.: Porori-hen",
       "preset": "https://anilist.co/anime/99714"
     },
     {
-      "id": 9,
+      "id": "09",
       "question": "Gintama.: Shirogane no Tamashii-hen",
       "preset": "https://anilist.co/anime/100784"
     },
     {
-      "id": 10,
+      "id": "10",
       "question": "Gintama.: Shirogane no Tamashii-hen - Kouhan-sen",
       "preset": "https://anilist.co/anime/101925"
     },
     {
-      "id": 11,
+      "id": "11",
       "question": "Gintama: THE SEMI-FINAL",
       "preset": "https://anilist.co/anime/126819"
     },
     {
-      "id": 12,
+      "id": "12",
       "question": "Gintama: THE FINAL",
       "preset": "https://anilist.co/anime/114129"
     }

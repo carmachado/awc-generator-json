@@ -4,52 +4,52 @@
   "defaultRequired": true,
   "requirements": [
     {
-      "id": 1,
+      "id": "01",
       "question": "Kaguya-hime no Monogatari",
       "preset": "https://anilist.co/anime/16664"
     },
     {
-      "id": 2,
+      "id": "02",
       "question": "Tonari no Yamada-kun",
       "preset": "https://anilist.co/anime/415"
     },
     {
-      "id": 3,
+      "id": "03",
       "question": "Heisei Tanuki Gassen Ponpoko",
       "preset": "https://anilist.co/anime/1030"
     },
     {
-      "id": 4,
+      "id": "04",
       "question": "Omoide Poro Poro",
       "preset": "https://anilist.co/anime/1029"
     },
     {
-      "id": 5,
+      "id": "05",
       "question": "Hotaru no Haka",
       "preset": "https://anilist.co/anime/578"
     },
     {
-      "id": 6,
+      "id": "06",
       "question": "Cello Hiki no Gauche",
       "preset": "https://anilist.co/anime/1049"
     },
     {
-      "id": 7,
+      "id": "07",
       "question": "Jarinko Chie (Movie)",
       "preset": "https://anilist.co/anime/3946"
     },
     {
-      "id": 8,
+      "id": "08",
       "question": "Akage no Anne",
       "preset": "https://anilist.co/anime/283"
     },
     {
-      "id": 9,
+      "id": "09",
       "question": "Alps no Shoujo Heidi",
       "preset": "https://anilist.co/anime/2225"
     },
     {
-      "id": 10,
+      "id": "10",
       "question": "Taiyou no Ouji: Horus no Daibouken",
       "preset": "https://anilist.co/anime/1044"
     }

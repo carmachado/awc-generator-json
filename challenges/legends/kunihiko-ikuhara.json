@@ -4,52 +4,52 @@
   "defaultRequired": true,
   "requirements": [
     {
-      "id": 1,
+      "id": "01",
       "question": "Bishoujo Senshi Sailor Moon",
       "preset": "https://anilist.co/anime/530"
     },
     {
-      "id": 2,
+      "id": "02",
       "question": "Bishoujo Senshi Sailor Moon R",
       "preset": "https://anilist.co/anime/740"
     },
     {
-      "id": 3,
+      "id": "03",
       "question": "Bishoujo Senshi Sailor Moon R: The Movie",
       "preset": "https://anilist.co/anime/531"
     },
     {
-      "id": 4,
+      "id": "04",
       "question": "Bishoujo Senshi Sailor Moon S",
       "preset": "https://anilist.co/anime/532"
     },
     {
-      "id": 5,
+      "id": "05",
       "question": "Bishoujo Senshi Sailor Moon SuperS",
       "preset": "https://anilist.co/anime/1239"
     },
     {
-      "id": 6,
+      "id": "06",
       "question": "Shoujo Kakumei Utena",
       "preset": "https://anilist.co/anime/440"
     },
     {
-      "id": 7,
+      "id": "07",
       "question": "Shoujo Kakumei Utena: Adolescence Mokushiroku",
       "preset": "https://anilist.co/anime/441"
     },
     {
-      "id": 8,
+      "id": "08",
       "question": "Mawaru Penguindrum",
       "preset": "https://anilist.co/anime/10721"
     },
     {
-      "id": 9,
+      "id": "09",
       "question": "Yuri Kuma Arashi",
       "preset": "https://anilist.co/anime/20827"
     },
     {
-      "id": 10,
+      "id": "10",
       "question": "Sarazanmai",
       "preset": "https://anilist.co/anime/101261"
     }

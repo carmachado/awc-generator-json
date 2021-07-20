@@ -4,42 +4,42 @@
   "defaultRequired": true,
   "requirements": [
     {
-      "id": 1,
+      "id": "01",
       "question": "Love Live! School idol project",
       "preset": "https://anilist.co/anime/15051"
     },
     {
-      "id": 2,
+      "id": "02",
       "question": "Love Live! School idol project OVA",
       "preset": "https://anilist.co/anime/20554"
     },
     {
-      "id": 3,
+      "id": "03",
       "question": "Love Live! School idol project 2nd Season",
       "preset": "https://anilist.co/anime/19111"
     },
     {
-      "id": 4,
+      "id": "04",
       "question": "Love Live! The School Idol Movie",
       "preset": "https://anilist.co/anime/20766"
     },
     {
-      "id": 5,
+      "id": "05",
       "question": "Love Live! Sunshine!!",
       "preset": "https://anilist.co/anime/21584"
     },
     {
-      "id": 6,
+      "id": "06",
       "question": "Love Live! Sunshine!! 2nd Season",
       "preset": "https://anilist.co/anime/98349"
     },
     {
-      "id": 7,
+      "id": "07",
       "question": "Love Live! Sunshine!! The School Idol Movie: Over the Rainbow",
       "preset": "https://anilist.co/anime/100965"
     },
     {
-      "id": 8,
+      "id": "08",
       "question": "Love Live! Nijigasaki Gakuen School Idol Doukoukai",
       "preset": "https://anilist.co/anime/113970"
     }

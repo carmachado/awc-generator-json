@@ -4,42 +4,42 @@
   "defaultRequired": true,
   "requirements": [
     {
-      "id": 1,
+      "id": "01",
       "question": "Initial D",
       "preset": "https://anilist.co/anime/185"
     },
     {
-      "id": 2,
+      "id": "02",
       "question": "Initial D Second Stage",
       "preset": "https://anilist.co/anime/186"
     },
     {
-      "id": 3,
+      "id": "03",
       "question": "Initial D Extra Stage",
       "preset": "https://anilist.co/anime/822"
     },
     {
-      "id": 4,
+      "id": "04",
       "question": "Initial D Third Stage",
       "preset": "https://anilist.co/anime/187"
     },
     {
-      "id": 5,
+      "id": "05",
       "question": "Initial D Fourth Stage",
       "preset": "https://anilist.co/anime/18"
     },
     {
-      "id": 6,
+      "id": "06",
       "question": "Initial D Extra Stage 2",
       "preset": "https://anilist.co/anime/5228"
     },
     {
-      "id": 7,
+      "id": "07",
       "question": "Initial D Fifth Stage",
       "preset": "https://anilist.co/anime/15059"
     },
     {
-      "id": 8,
+      "id": "08",
       "question": "Initial D Final Stage",
       "preset": "https://anilist.co/anime/19613"
     }

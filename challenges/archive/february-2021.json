@@ -5,31 +5,31 @@
   "autoOccult": true,
   "requirements": [
     {
-      "id": 1,
+      "id": "01",
       "question": "Watch an anime with the format “TV” and the tag “Primarily Male Cast”",
       "required": true
     },
     {
-      "id": 2,
+      "id": "02",
       "question": "Watch an anime from our \"Cute Boys Doing Cute Things\" community list"
     },
     {
-      "id": 3,
+      "id": "03",
       "question": "Boys Being Boys: Watch an anime with the tag “Boys' Love”, “Reverse Harem” or “Shounen”"
     },
     {
-      "id": 4,
+      "id": "04",
       "question": "Watch an anime featuring one of your favourite male voice actors",
       "additionalInformation": [
         { "type": "Link", "field": "Voice Actor", "subtype": "Staff" }
       ]
     },
     {
-      "id": 5,
+      "id": "05",
       "question": "Watch an anime with the tag “Male Protagonist” and the genre “Slice of Life”, “Sports” or “Romance”"
     },
     {
-      "id": 6,
+      "id": "06",
       "question": "Demon Boys: Watch an anime with a male main character that is not human",
       "additionalInformation": [
         { "type": "Link", "field": "Character", "subtype": "Character" },
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": "07",
       "question": "Secret Boy: Watch an anime featuring one of another participant’s favourite male characters that has 500 favourites or less",
       "additionalInformation": [
         { "type": "Link", "field": "Character", "subtype": "Character" },
@@ -51,16 +51,16 @@
       ]
     },
     {
-      "id": 8,
+      "id": "08",
       "question": "Watch an anime with a topless male character OR an anime with a “kabedon” scene",
       "additionalInformation": [{ "type": "Link", "field": "Screenshot" }]
     },
     {
-      "id": 9,
+      "id": "09",
       "question": "Watch an anime that has the letters “C, U, T, E” or “B, O, Y, S” in the title"
     },
     {
-      "id": 10,
+      "id": "10",
       "question": "Watch an anime that features another participant’s cute boy",
       "additionalInformation": [
         { "type": "Link", "field": "Character", "subtype": "Character" },

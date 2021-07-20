@@ -4,52 +4,52 @@
   "defaultRequired": true,
   "requirements": [
     {
-      "id": 1,
+      "id": "01",
       "question": "Tenki no Ko",
       "preset": "https://anilist.co/anime/106286"
     },
     {
-      "id": 2,
+      "id": "02",
       "question": "Kimi no Na wa.",
       "preset": "https://anilist.co/anime/21519"
     },
     {
-      "id": 3,
+      "id": "03",
       "question": "Kotonoha no Niwa",
       "preset": "https://anilist.co/anime/16782"
     },
     {
-      "id": 4,
+      "id": "04",
       "question": "Hoshi wo Ou Kodomo",
       "preset": "https://anilist.co/anime/9760"
     },
     {
-      "id": 5,
+      "id": "05",
       "question": "Byousoku 5 Centimeter",
       "preset": "https://anilist.co/anime/1689"
     },
     {
-      "id": 6,
+      "id": "06",
       "question": "Kumo no Mukou, Yakusoku no Basho",
       "preset": "https://anilist.co/anime/433"
     },
     {
-      "id": 7,
+      "id": "07",
       "question": "Hoshi no Koe",
       "preset": "https://anilist.co/anime/256"
     },
     {
-      "id": 8,
+      "id": "08",
       "question": "Kanojo to Kanojo no Neko",
       "preset": "https://anilist.co/anime/1004"
     },
     {
-      "id": 9,
+      "id": "09",
       "question": "Dareka no Manazashi",
       "preset": "https://anilist.co/anime/17121"
     },
     {
-      "id": 10,
+      "id": "10",
       "question": "Cross Road",
       "preset": "https://anilist.co/anime/20831"
     }
