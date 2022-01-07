@@ -1,0 +1,77 @@
+{
+  "name": "January 2022 Monthly Challenge",
+  "link": "https://anilist.co/forum/thread/48908",
+  "defaultRequired": false,
+  "autoOccult": true,
+  "requirements": [
+    {
+      "id": "01",
+      "question": "Watch an anime with the format “TV” from your Planning list",
+      "description": "Watch an anime with the format “TV” from your Planning list",
+      "required": true
+    },
+    {
+      "id": "02",
+      "question": "Perfect Future: Watch an anime with the genre “Sci-Fi” that does not have any of the tags: “Crime”, “War”, “Military” or “Dystopian”",
+      "description": "Perfect Future: Watch an anime with the genre “Sci-Fi” that does not have any of the tags: “Crime”, “War”, “Military” or “Dystopian”"
+    },
+    {
+      "id": "03",
+      "question": "Plastic-Free: Watch an anime with the format “ONA”",
+      "description": "Plastic-Free: Watch an anime with the format “ONA”"
+    },
+    {
+      "id": "04",
+      "question": "Ecotopian: Watch an anime with the tag “Environmental”, “Lost Civilization” or “Steampunk”",
+      "description": "Ecotopian: Watch an anime with the tag “Environmental”, “Lost Civilization” or “Steampunk”"
+    },
+    {
+      "id": "05",
+      "question": "Recycle: Watch an anime that fulfils any requirement from a 2021 Monthly Challenge",
+      "description": "Recycle: Watch an anime that fulfils any requirement from a 2021 Monthly Challenge",
+      "additionalInformation": [
+        { "type": "Label", "field": "Challenge" },
+        { "type": "Label", "field": "Requirement" }
+      ]
+    },
+    {
+      "id": "06",
+      "question": "Next Generation: Watch an anime with the tag “Primarily Teen Cast”",
+      "description": "Next Generation: Watch an anime with the tag “Primarily Teen Cast”"
+    },
+    {
+      "id": "07",
+      "question": "Bliss: Watch an anime with blue sky and green grass on the cover or banner art",
+      "description": "Bliss: Watch an anime with blue sky and green grass on the cover or banner art"
+    },
+    {
+      "id": "08",
+      "question": "It Gets Better: Watch an anime that is a sequel and has a higher mean score than its prequel",
+      "description": "It Gets Better: Watch an anime that is a sequel and has a higher mean score than its prequel"
+    },
+    {
+      "id": "09",
+      "question": "World Peace: Watch an anime with the tag “Iyashikei”, “Cute Girls Doing Cute Things” or “Cute Boys Doing Cute Things”",
+      "description": "World Peace: Watch an anime with the tag “Iyashikei”, “Cute Girls Doing Cute Things” or “Cute Boys Doing Cute Things”"
+    },
+    {
+      "id": "10",
+      "question": "Shared Happiness: Watch an anime another participant recommended for Spread the Love",
+      "description": "Shared Happiness: Watch an anime another participant recommended for Spread the Love",
+      "additionalInformation": [
+        {
+          "type": "Link",
+          "field": "Challenge Post",
+          "subtype": "ChallengeUser"
+        }
+      ]
+    },
+    {
+      "splitter": "<hr>\n",
+      "id": "11",
+      "question": "Spread the Love: Recommend an anime that brought you joy that you think will make other challengers happy too! (Optional)",
+      "description": "Spread the Love: Recommend an anime that brought you joy that you think will make other challengers happy too! (Optional)",
+      "customFormat": "__{question}__"
+    }
+  ]
+}
