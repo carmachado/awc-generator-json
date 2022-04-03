@@ -3,16 +3,12 @@
     "name": "Limited",
     "childrens": [
       {
-        "name": "Spring 2021",
-        "file": "limited/spring-2021"
-      },
-      {
-        "name": "January 2022",
-        "file": "limited/january-2022"
-      },
-      {
         "name": "Winter 2022",
         "file": "limited/winter-2022"
+      },
+      {
+        "name": "Spring 2022",
+        "file": "limited/spring-2022"
       }
     ]
   },

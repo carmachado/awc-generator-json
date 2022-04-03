@@ -1,0 +1,49 @@
+{
+  "name": "Spring 2022 Seasonal Challenge",
+  "link": "https://anilist.co/forum/thread/52999",
+  "defaultRequired": true,
+  "requirements": [
+    {
+      "id": "01",
+      "question": "1st Anime",
+      "additionalInformation": [{ "type": "Episode" }]
+    },
+    {
+      "id": "02",
+      "question": "2st Anime",
+      "additionalInformation": [{ "type": "Episode" }]
+    },
+    {
+      "id": "03",
+      "question": "3st Anime",
+      "additionalInformation": [{ "type": "Episode" }]
+    },
+    {
+      "id": "04",
+      "question": "4st Anime",
+      "additionalInformation": [{ "type": "Episode" }]
+    },
+    {
+      "id": "05",
+      "question": "5st Anime",
+      "additionalInformation": [{ "type": "Episode" }]
+    },
+    {
+      "id": "06",
+      "question": "6st Anime",
+      "additionalInformation": [{ "type": "Episode" }]
+    },
+    {
+      "id": "07",
+      "question": "7st Anime",
+      "additionalInformation": [{ "type": "Episode" }]
+    },
+    {
+      "id": "badge_vote",
+      "splitter": "<hr>\n",
+      "question": "Seasonal Badge Vote (Optional)",
+      "required": false,
+      "customFormat": "{question}: {anime}"
+    }
+  ]
+}
