@@ -1,6 +1,6 @@
 {
-  "name": "Winter 2022 Seasonal Challenge",
-  "link": "https://anilist.co/forum/thread/48962",
+  "name": "Fall 2022 Seasonal Challenge",
+  "link": "https://anilist.co/forum/thread/59679",
   "defaultRequired": true,
   "requirements": [
     {
@@ -37,6 +37,13 @@
       "id": "07",
       "question": "7st Anime",
       "additionalInformation": [{ "type": "Episode" }]
+    },
+    {
+      "id": "badge_vote",
+      "splitter": "<hr>\n",
+      "question": "Seasonal Badge Vote (Optional)",
+      "required": false,
+      "customFormat": "{question}: {anime}"
     }
   ]
 }
